@@ -1,0 +1,313 @@
+{
+  "datasetId": "wolgye1-public-20261005",
+  "collectedAt": "2026-10-08T09:35:16.387Z",
+  "facilities": [
+    {
+      "id": "streetlight-02e019e1a7faaea1ac8a64b3",
+      "name": "화랑고가-11",
+      "position": {
+        "lat": 37.6147168,
+        "lng": 127.0645456
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-06d578ea090e6d6aea2988c4",
+      "name": "월계1지하차도-05",
+      "position": {
+        "lat": 37.6295595,
+        "lng": 127.0580722
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-1aa4d57eacb57bd49807cff2",
+      "name": "화랑고가-13",
+      "position": {
+        "lat": 37.6144943,
+        "lng": 127.0637555
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-36cce5e02a442547821c84d2",
+      "name": "화랑고가-08",
+      "position": {
+        "lat": 37.6149871,
+        "lng": 127.0656862
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-3dd9741e3c83599290f3b3a7",
+      "name": "화랑고가-19",
+      "position": {
+        "lat": 37.6150481,
+        "lng": 127.065425
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-517e52bb8c7c353c009f6009",
+      "name": "화랑고가-10",
+      "position": {
+        "lat": 37.6148008,
+        "lng": 127.0649183
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-53fbd1e740a555e03c0f4332",
+      "name": "월계1지하차도-06",
+      "position": {
+        "lat": 37.6297055,
+        "lng": 127.0582969
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-7658146d2f698ca88f106698",
+      "name": "화랑고가-17",
+      "position": {
+        "lat": 37.61488,
+        "lng": 127.0646795
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-80c69003abdb115226888921",
+      "name": "월계1지하차도-07",
+      "position": {
+        "lat": 37.6298424,
+        "lng": 127.0585218
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-8b89617b6008cf8b31812042",
+      "name": "화랑고가-09",
+      "position": {
+        "lat": 37.614894,
+        "lng": 127.0653136
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-93e023f086bb9ca35711b35b",
+      "name": "화랑고가-12",
+      "position": {
+        "lat": 37.6146146,
+        "lng": 127.0641618
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-ad7b4b9f70547797d933ac49",
+      "name": "월계1지하차도-08",
+      "position": {
+        "lat": 37.6299884,
+        "lng": 127.0587465
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-af30ab416afcda930051a7a2",
+      "name": "화랑고가-15",
+      "position": {
+        "lat": 37.6146759,
+        "lng": 127.0639345
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-c2db204aed645e7ff2c8d948",
+      "name": "화랑고가-16",
+      "position": {
+        "lat": 37.6147869,
+        "lng": 127.0642955
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-c5bb8d41e14b5faab3e4f4dd",
+      "name": "화랑고가-14",
+      "position": {
+        "lat": 37.6145378,
+        "lng": 127.0635624
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "streetlight-f55e10006b2d66e44df7c2e1",
+      "name": "화랑고가-18",
+      "position": {
+        "lat": 37.6149732,
+        "lng": 127.0650634
+      },
+      "type": "STREETLIGHT",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 가로등 위치 정보",
+        "url": "https://data.seoul.go.kr/dataList/OA-22205/F/1/datasetView.do",
+        "observedAt": "2023-12-22T00:00:00Z",
+        "recheckAt": "2023-12-23T00:00:00Z",
+        "dateMeaning": "파일 등록일; 현장 확인일 아님"
+      }
+    },
+    {
+      "id": "seoul-smartpole-315",
+      "type": "STREETLIGHT",
+      "name": "스마트폴 가로등 · 서울특별시 노원구 광운로2길 1",
+      "position": {
+        "lat": 37.61898,
+        "lng": 127.057806
+      },
+      "status": "UNKNOWN",
+      "description": "공개 스마트폴 운영현황에 가로등 기능이 등록되어 있습니다. 등록 기능: CCTV, 공공 WiFi, 가로등, 과속계도서비스 / 현재 점등 상태는 미확인입니다.",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 스마트폴 운영 현황 (공공누리 4유형)",
+        "url": "https://data.seoul.go.kr/dataList/OA-23001/S/1/datasetView.do",
+        "observedAt": "2025-12-31T00:00:00+09:00",
+        "recheckAt": "2026-01-01T00:00:00+09:00",
+        "dateMeaning": "2025년 12월 기준 운영 현황; 현장 관측·작동 확인이 아님. 출처표시·비상업·변경금지 원자료 이용조건."
+      }
+    }
+  ]
+}

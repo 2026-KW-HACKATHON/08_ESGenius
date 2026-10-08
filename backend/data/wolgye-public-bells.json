@@ -1,0 +1,132 @@
+{
+  "datasetId": "wolgye1-public-20261005",
+  "collectedAt": "2026-10-08T09:35:16.389Z",
+  "facilities": [
+    {
+      "id": "seoul-toilet-bell-288597",
+      "type": "EMERGENCY_BELL",
+      "name": "석계역(1호선) 화장실 비상벨",
+      "position": {
+        "lat": 37.61530594,
+        "lng": 127.06564724
+      },
+      "access": "INDOOR",
+      "openingHours": "정시(영업시작~종료)",
+      "description": "화장실 내부 비상벨 설치가 등록된 건물 기준점입니다. 개방 시간: 정시(영업시작~종료)  / 서울특별시 노원구 화랑로 341 / 원자료 설비: 비상벨(남) · 비상벨(여) · 출입구CCTV ·  실제 벨 위치와 작동 여부는 현장 확인이 필요합니다.",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 공중화장실 위치정보 (OA-22586)",
+        "url": "https://data.seoul.go.kr/dataList/OA-22586/S/1/datasetView.do",
+        "observedAt": "2026-10-06T00:00:00+09:00",
+        "recheckAt": "2026-10-07T00:00:00+09:00",
+        "dateMeaning": "공개 데이터셋 갱신일. 개별 시설 점검일이 아니며 건물 좌표입니다. 야간 이용 가능·경찰 연결 여부는 미확인."
+      }
+    },
+    {
+      "id": "seoul-toilet-bell-288599",
+      "type": "EMERGENCY_BELL",
+      "name": "광운대역 화장실 비상벨",
+      "position": {
+        "lat": 37.62303359,
+        "lng": 127.06176347
+      },
+      "access": "INDOOR",
+      "openingHours": "정시(영업시작~종료)",
+      "description": "화장실 내부 비상벨 설치가 등록된 건물 기준점입니다. 개방 시간: 정시(영업시작~종료)  / 서울특별시 노원구 석계로 98-2 / 원자료 설비: 비상벨(남) · 비상벨(여) ·  실제 벨 위치와 작동 여부는 현장 확인이 필요합니다.",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 공중화장실 위치정보 (OA-22586)",
+        "url": "https://data.seoul.go.kr/dataList/OA-22586/S/1/datasetView.do",
+        "observedAt": "2026-10-06T00:00:00+09:00",
+        "recheckAt": "2026-10-07T00:00:00+09:00",
+        "dateMeaning": "공개 데이터셋 갱신일. 개별 시설 점검일이 아니며 건물 좌표입니다. 야간 이용 가능·경찰 연결 여부는 미확인."
+      }
+    },
+    {
+      "id": "seoul-toilet-bell-288621",
+      "type": "EMERGENCY_BELL",
+      "name": "월계1동주민센타 화장실 비상벨",
+      "position": {
+        "lat": 37.61999188,
+        "lng": 127.06288321
+      },
+      "access": "INDOOR",
+      "openingHours": "정시(09:00~18:00,평일)",
+      "description": "화장실 내부 비상벨 설치가 등록된 건물 기준점입니다. 개방 시간: 정시(09:00~18:00,평일)  / 서울특별시 노원구 석계로 59 / 원자료 설비: 비상벨(남) · 비상벨(여) · 비상벨(장애인_남) · 비상벨(장애인_여) · 출입구CCTV ·  실제 벨 위치와 작동 여부는 현장 확인이 필요합니다.",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 공중화장실 위치정보 (OA-22586)",
+        "url": "https://data.seoul.go.kr/dataList/OA-22586/S/1/datasetView.do",
+        "observedAt": "2026-10-06T00:00:00+09:00",
+        "recheckAt": "2026-10-07T00:00:00+09:00",
+        "dateMeaning": "공개 데이터셋 갱신일. 개별 시설 점검일이 아니며 건물 좌표입니다. 야간 이용 가능·경찰 연결 여부는 미확인."
+      }
+    },
+    {
+      "id": "seoul-toilet-bell-285947",
+      "type": "EMERGENCY_BELL",
+      "name": "월계동성당 화장실 비상벨",
+      "position": {
+        "lat": 37.62437418,
+        "lng": 127.06040198
+      },
+      "access": "INDOOR",
+      "openingHours": "기타 05:00~22:00",
+      "description": "화장실 내부 비상벨 설치가 등록된 건물 기준점입니다. 개방 시간: 기타 05:00~22:00  / 서울특별시 노원구 광운로 80 / 원자료 설비: 비상벨(남) · 비상벨(여) · 비상벨(장애인_남) · 비상벨(장애인_여) ·  실제 벨 위치와 작동 여부는 현장 확인이 필요합니다.",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 공중화장실 위치정보 (OA-22586)",
+        "url": "https://data.seoul.go.kr/dataList/OA-22586/S/1/datasetView.do",
+        "observedAt": "2026-10-06T00:00:00+09:00",
+        "recheckAt": "2026-10-07T00:00:00+09:00",
+        "dateMeaning": "공개 데이터셋 갱신일. 개별 시설 점검일이 아니며 건물 좌표입니다. 야간 이용 가능·경찰 연결 여부는 미확인."
+      }
+    },
+    {
+      "id": "seoul-toilet-bell-286363",
+      "type": "EMERGENCY_BELL",
+      "name": "영축산순환산책로(유아숲) 화장실 비상벨",
+      "position": {
+        "lat": 37.62200515,
+        "lng": 127.05317378
+      },
+      "access": "INDOOR",
+      "openingHours": "상시(24시간)",
+      "description": "화장실 내부 비상벨 설치가 등록된 건물 기준점입니다. 개방 시간: 상시(24시간)  / 서울특별시 노원구 월계로42길 97, 101동 (월계동, 꿈의숲 SK뷰 아파트) / 원자료 설비: 비상벨(남) · 비상벨(여) · 출입구CCTV ·  실제 벨 위치와 작동 여부는 현장 확인이 필요합니다.",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 공중화장실 위치정보 (OA-22586)",
+        "url": "https://data.seoul.go.kr/dataList/OA-22586/S/1/datasetView.do",
+        "observedAt": "2026-10-06T00:00:00+09:00",
+        "recheckAt": "2026-10-07T00:00:00+09:00",
+        "dateMeaning": "공개 데이터셋 갱신일. 개별 시설 점검일이 아니며 건물 좌표입니다. 야간 이용 가능·경찰 연결 여부는 미확인."
+      }
+    },
+    {
+      "id": "seoul-toilet-bell-286364",
+      "type": "EMERGENCY_BELL",
+      "name": "영축산순환산책로(송천배드민턴장) 화장실 비상벨",
+      "position": {
+        "lat": 37.62578995,
+        "lng": 127.05358473
+      },
+      "access": "INDOOR",
+      "openingHours": "상시(24시간)",
+      "description": "화장실 내부 비상벨 설치가 등록된 건물 기준점입니다. 개방 시간: 상시(24시간)  / 서울특별시 노원구 월계로 280 / 원자료 설비: 비상벨(남) · 비상벨(여) · 출입구CCTV ·  실제 벨 위치와 작동 여부는 현장 확인이 필요합니다.",
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 공중화장실 위치정보 (OA-22586)",
+        "url": "https://data.seoul.go.kr/dataList/OA-22586/S/1/datasetView.do",
+        "observedAt": "2026-10-06T00:00:00+09:00",
+        "recheckAt": "2026-10-07T00:00:00+09:00",
+        "dateMeaning": "공개 데이터셋 갱신일. 개별 시설 점검일이 아니며 건물 좌표입니다. 야간 이용 가능·경찰 연결 여부는 미확인."
+      }
+    }
+  ]
+}

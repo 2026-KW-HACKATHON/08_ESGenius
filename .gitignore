@@ -1,0 +1,26 @@
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.apk
+*.aab
+*.jks
+*.keystore
+local.properties
+.DS_Store
+backend/data/research/
+
+# Local recordings, exports, and collection caches
+/deliverables/
+*.mp4
+*.webm
+*.mov
+*.mkv
+coverage/
+backend/data/construction-research/
+backend/data/safety-research/*
+!backend/data/safety-research/nowon-security-lights-2018.csv
+!backend/data/safety-research/light-mirror-source.json

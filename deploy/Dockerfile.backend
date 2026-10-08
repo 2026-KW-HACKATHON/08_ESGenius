@@ -1,0 +1,19 @@
+FROM node:24-bookworm-slim AS build
+WORKDIR /app
+COPY backend/package*.json ./
+RUN npm ci
+COPY backend/tsconfig.json ./
+COPY backend/src ./src
+COPY backend/scripts ./scripts
+RUN npm run build && npm prune --omit=dev
+FROM node:24-bookworm-slim
+WORKDIR /app
+ENV NODE_ENV=production HOST=0.0.0.0 PORT=4100 DATABASE_PATH=/app/storage/wolgye.sqlite DEMO_MODE=false
+COPY --from=build --chown=node:node /app/package*.json ./
+COPY --from=build --chown=node:node /app/node_modules ./node_modules
+COPY --from=build --chown=node:node /app/dist ./dist
+COPY --chown=node:node backend/data/wolgye1.dataset.json ./data/wolgye1.dataset.json
+COPY --chown=node:node backend/data/wolgye-construction-notices.json ./data/wolgye-construction-notices.json
+RUN mkdir storage && chown node:node storage
+USER node
+CMD ["node","dist/scripts/serve.js"]

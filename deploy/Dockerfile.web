@@ -1,0 +1,15 @@
+FROM node:24-bookworm-slim AS build
+WORKDIR /app
+COPY mobile/package*.json ./
+RUN npm ci
+COPY mobile/tsconfig.json mobile/index.html mobile/vite.config.ts ./
+COPY mobile/src ./src
+COPY mobile/public ./public
+ARG VITE_KAKAO_JAVASCRIPT_KEY
+ARG VITE_SUPABASE_URL
+ARG VITE_SUPABASE_ANON_KEY
+ENV VITE_API_URL=""
+RUN npm run build
+FROM caddy:2-alpine
+COPY --from=build /app/dist /srv
+COPY deploy/Caddyfile /etc/caddy/Caddyfile

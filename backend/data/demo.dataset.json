@@ -1,0 +1,298 @@
+{
+  "id": "wolgye-demo-v1",
+  "name": "월계동 부근 가상 보행망 (실제 도로와 무관)",
+  "isDemo": true,
+  "bbox": [
+    127.045,
+    37.61,
+    127.075,
+    37.645
+  ],
+  "nodes": [
+    {
+      "id": "demo-start",
+      "name": "시연 출발점",
+      "position": {
+        "lat": 37.622,
+        "lng": 127.061
+      }
+    },
+    {
+      "id": "demo-dark",
+      "name": "시연 조명 부족 연결점",
+      "position": {
+        "lat": 37.6228,
+        "lng": 127.061
+      }
+    },
+    {
+      "id": "demo-bright-1",
+      "name": "시연 조명 확인 연결점 1",
+      "position": {
+        "lat": 37.622,
+        "lng": 127.0614
+      }
+    },
+    {
+      "id": "demo-bright-2",
+      "name": "시연 조명 확인 연결점 2",
+      "position": {
+        "lat": 37.6236,
+        "lng": 127.0614
+      }
+    },
+    {
+      "id": "demo-end",
+      "name": "시연 도착점",
+      "position": {
+        "lat": 37.6236,
+        "lng": 127.061
+      }
+    }
+  ],
+  "facilities": [
+    {
+      "id": "demo-lamp-1",
+      "name": "시연 가로등 1",
+      "type": "STREETLIGHT",
+      "status": "WORKING",
+      "position": {
+        "lat": 37.622,
+        "lng": 127.0614
+      },
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    },
+    {
+      "id": "demo-lamp-2",
+      "name": "시연 가로등 2",
+      "type": "STREETLIGHT",
+      "status": "WORKING",
+      "position": {
+        "lat": 37.6236,
+        "lng": 127.0614
+      },
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    },
+    {
+      "id": "demo-cctv",
+      "name": "시연 CCTV",
+      "type": "CCTV",
+      "status": "UNKNOWN",
+      "position": {
+        "lat": 37.6236,
+        "lng": 127.0614
+      },
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    },
+    {
+      "id": "demo-bell",
+      "name": "시연 비상벨",
+      "type": "EMERGENCY_BELL",
+      "status": "WORKING",
+      "position": {
+        "lat": 37.6236,
+        "lng": 127.061
+      },
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "dark-1",
+      "from": "demo-start",
+      "to": "demo-dark",
+      "geometry": [
+        {
+          "lat": 37.622,
+          "lng": 127.061
+        },
+        {
+          "lat": 37.6228,
+          "lng": 127.061
+        }
+      ],
+      "bidirectional": true,
+      "stairs": false,
+      "wheelchair": "PASS",
+      "stroller": "PASS",
+      "discomfort": 0.5,
+      "lighting": "DARK",
+      "facilityIds": [],
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    },
+    {
+      "id": "dark-2",
+      "from": "demo-dark",
+      "to": "demo-end",
+      "geometry": [
+        {
+          "lat": 37.6228,
+          "lng": 127.061
+        },
+        {
+          "lat": 37.6236,
+          "lng": 127.061
+        }
+      ],
+      "bidirectional": true,
+      "stairs": false,
+      "wheelchair": "PASS",
+      "stroller": "PASS",
+      "discomfort": 0.5,
+      "lighting": "DARK",
+      "facilityIds": [],
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    },
+    {
+      "id": "bright-1",
+      "from": "demo-start",
+      "to": "demo-bright-1",
+      "geometry": [
+        {
+          "lat": 37.622,
+          "lng": 127.061
+        },
+        {
+          "lat": 37.622,
+          "lng": 127.0614
+        }
+      ],
+      "bidirectional": true,
+      "stairs": false,
+      "wheelchair": "PASS",
+      "stroller": "PASS",
+      "discomfort": 0,
+      "lighting": "LIT",
+      "facilityIds": [
+        "demo-lamp-1"
+      ],
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    },
+    {
+      "id": "bright-2",
+      "from": "demo-bright-1",
+      "to": "demo-bright-2",
+      "geometry": [
+        {
+          "lat": 37.622,
+          "lng": 127.0614
+        },
+        {
+          "lat": 37.6236,
+          "lng": 127.0614
+        }
+      ],
+      "bidirectional": true,
+      "stairs": false,
+      "wheelchair": "PASS",
+      "stroller": "PASS",
+      "discomfort": 0,
+      "lighting": "LIT",
+      "facilityIds": [
+        "demo-lamp-1",
+        "demo-lamp-2",
+        "demo-cctv"
+      ],
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    },
+    {
+      "id": "bright-3",
+      "from": "demo-bright-2",
+      "to": "demo-end",
+      "geometry": [
+        {
+          "lat": 37.6236,
+          "lng": 127.0614
+        },
+        {
+          "lat": 37.6236,
+          "lng": 127.061
+        }
+      ],
+      "bidirectional": true,
+      "stairs": false,
+      "wheelchair": "PASS",
+      "stroller": "PASS",
+      "discomfort": 0,
+      "lighting": "LIT",
+      "facilityIds": [
+        "demo-lamp-2",
+        "demo-bell"
+      ],
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    },
+    {
+      "id": "stairs",
+      "from": "demo-start",
+      "to": "demo-end",
+      "geometry": [
+        {
+          "lat": 37.622,
+          "lng": 127.061
+        },
+        {
+          "lat": 37.6236,
+          "lng": 127.061
+        }
+      ],
+      "bidirectional": true,
+      "stairs": true,
+      "wheelchair": "BLOCKED",
+      "stroller": "BLOCKED",
+      "discomfort": 0.5,
+      "lighting": "DARK",
+      "facilityIds": [],
+      "source": {
+        "type": "DEMO",
+        "name": "알고리즘 검증용 가상 데이터 · 현장 정보 아님",
+        "observedAt": "2026-10-06T06:07:13.295Z",
+        "recheckAt": "2026-11-05T06:07:13.295Z"
+      }
+    }
+  ]
+}

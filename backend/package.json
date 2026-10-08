@@ -1,0 +1,42 @@
+{
+  "name": "wol-gye-on-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0 <25"
+  },
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "node dist/src/server.js",
+    "build": "tsc",
+    "check": "tsc --noEmit",
+    "test": "tsx --test test/*.test.ts",
+    "setup": "tsx scripts/setup.ts",
+    "data:import": "tsx scripts/import.ts",
+    "openapi": "tsx scripts/openapi.ts",
+    "data:load": "tsx scripts/import.ts data/wolgye1.dataset.json",
+    "data:constructions": "tsx scripts/collect-constructions.ts",
+    "data:construction-projects": "tsx scripts/collect-construction-projects.ts",
+    "mobile": "tsx scripts/mobile.ts",
+    "data:cctv": "tsx scripts/collect-safety.ts",
+    "data:archive-lights": "tsx scripts/geocode-archived-lights.ts",
+    "data:safety": "tsx scripts/apply-safety.ts"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.0.0",
+    "@fastify/helmet": "^13.0.0",
+    "@fastify/rate-limit": "^10.0.0",
+    "@fastify/swagger": "^9.0.0",
+    "@fastify/swagger-ui": "^6.1.1",
+    "@sinclair/typebox": "^0.34.0",
+    "dotenv": "^17.0.0",
+    "fastify": "^5.0.0",
+    "jose": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#59bcaa"><meta name="description" content="우리 동네의 안전한 길을 함께 만드는 총총 월계길">
+  <link rel="manifest" href="/manifest.webmanifest"><link rel="icon" href="/icons/icon-192.png"><link rel="apple-touch-icon" href="/icons/icon-192.png"><title>총총 월계길</title>
+</head>
+<body data-tab="map">
+  <header class="app-header"><button class="brand" data-action="tab" data-value="map" aria-label="총총 월계길 지도"><img src="/figma/current/66-1005-imgImage1.png" alt="총총 월계길"></button><button id="night" data-action="night" hidden>낮·밤 설정</button></header>
+  <div id="connection" role="status">서버 연결 중…</div>
+  <main><section id="map-page">
+    <div id="map"><div id="map-message"></div></div><div id="route-top" hidden></div>
+    <div class="map-tools"><button class="home-search" data-action="search-open"><img src="/figma/current/66-2-imgIcon4.svg" alt=""><span>장소를 검색해보세요</span><img src="/figma/current/66-2-imgIcon5.svg" alt=""></button></div>
+    <div class="map-controls"><button data-action="layers" aria-label="지도 레이어" aria-expanded="false" aria-controls="layer-menu"><img src="/figma/current/66-2-imgIcon6.svg" alt=""></button><button data-action="locate" aria-label="내 위치"><img src="/figma/current/66-2-imgIcon7.svg" alt=""></button></div>
+    <section id="layer-menu" class="layer-menu" hidden></section>
+    <div id="map-pick-hint" hidden><span>지도에서 위치를 선택해주세요</span><button data-action="cancel-map-pick">취소</button></div>
+    <button class="find-route" data-action="route-open"><img src="/figma/current/66-2-imgIcon8.svg" alt="">길찾기</button>
+    <button class="neighborhood" data-action="news"><img src="/figma/current/66-2-imgImage1.png" alt="고양이 마을안내원"><span><b>내 주변 안전 소식</b><small>내 위치 주변을 살펴봐요</small></span><img class="chevron" src="/figma/current/66-2-imgIcon9.svg" alt=""></button>
+    <section id="nearby-panel" aria-label="내 주변 안전 소식" hidden></section>
+    <section id="route-card" hidden></section>
+  </section><section id="page" hidden></section></main>
+  <nav aria-label="주 메뉴"><button data-action="tab" data-value="reports"><span><img src="/figma/current/66-2-imgIcon10.svg" alt=""></span>제보</button><button data-action="tab" data-value="map" class="active"><span><img src="/figma/current/66-2-imgIcon11.svg" alt=""></span>지도</button><button data-action="tab" data-value="profile"><span><img src="/figma/current/66-2-imgIcon12.svg" alt=""></span>내 정보</button></nav>
+  <dialog id="sheet" aria-labelledby="sheet-title"><header><button data-action="close" aria-label="뒤로"><img src="/figma/current/66-1697-imgIcon.svg" alt=""></button><h2 id="sheet-title"></h2><span></span></header><div id="sheet-body"></div></dialog>
+  <dialog id="feedback" class="success-sheet" aria-label="공감 완료"></dialog>
+  <div id="toast" role="status" aria-live="polite"></div><script type="module" src="/src/main.ts"></script>
+</body></html>

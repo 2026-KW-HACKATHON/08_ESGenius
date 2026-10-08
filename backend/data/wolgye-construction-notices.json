@@ -1,0 +1,4426 @@
+{
+  "collectedAt": "2026-10-08T11:19:33.331Z",
+  "sourceUrl": "https://data.seoul.go.kr/dataList/OA-22901/S/1/datasetView.do",
+  "sourceName": "서울특별시 · 도로굴착 공사 현황 (OA-22901)",
+  "license": "공공누리 제1유형 · 서울특별시 출처표시",
+  "rawCount": 474,
+  "items": [
+    {
+      "id": "seoul-448430f3b21e41ddc402",
+      "permitNo": "노원구-2026-가스-0028",
+      "title": "월계동 66-5호 (철도교) 주변 도시가스 본관 이설공사 (2-1)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-09-21",
+      "endsOn": "2026-10-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도",
+        "특별시도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 66-5",
+      "region": "WOLGYE1",
+      "locationNote": "공사명에 명시된 지번의 카카오 주소 검색 기준점입니다. 공사 범위·통제 위치를 뜻하지 않습니다. 행정동 구분은 확보한 월계1동 경계와 기준점을 비교했습니다.",
+      "pedestrianControl": "UNVERIFIED",
+      "position": {
+        "lat": 37.6168855731601,
+        "lng": 127.064959303871
+      }
+    },
+    {
+      "id": "seoul-85e80cc05c3e546999bf",
+      "permitNo": "노원구-2026-일반-0039",
+      "title": "수도권 광역급행철도 C노선 민간투자시설사업 건설공사(2공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-09-01",
+      "endsOn": "2026-12-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-2a79be0c6074f51ef563",
+      "permitNo": "노원구-2026-일반-0042",
+      "title": "노원구 월계동 620-3 앞 공항버스 표지판 이동설치 공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-08-27",
+      "endsOn": "2026-09-04",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "기타"
+      ],
+      "pavements": [
+        "기타"
+      ],
+      "address": "서울특별시 노원구 월계동 620-3",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a08e9531d3ec81c6b269",
+      "permitNo": "노원구-2026-난방-0007",
+      "title": "2026년 동부지사 열수송관 보수공사(월계미륭아파트 정문 옆 도로)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-08-24",
+      "endsOn": "2026-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1b1e6211e135e0255c4a",
+      "permitNo": "노원구-2026-일반-0040",
+      "title": "중계본동 주택재개발사업 으로인한 소화전 이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-08-21",
+      "endsOn": "2026-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5f925022d2b55b763d80",
+      "permitNo": "노원구-2026-하수-0023",
+      "title": "한글비석로 24길 24 일대 등 13개소 하수관로 개량공사 (구도)3",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-08-21",
+      "endsOn": "2026-10-02",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-979f5c1d40bacac272d4",
+      "permitNo": "노원구-2026-전기-0031",
+      "title": "석계D/L 용량부족해소 선로확충공사_3차_지중_박준서",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-08-17",
+      "endsOn": "2026-10-16",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-0683d229b93eb34c93c3",
+      "permitNo": "노원구-2026-전기-0029",
+      "title": "장위6구역 주택재개발 지중화공사(보도2차-노원구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-08-04",
+      "endsOn": "2026-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-48d1da3afeeea0c85b97",
+      "permitNo": "노원구-2025-전기-0047",
+      "title": "[22.9kV]월계동298 외 3개소 노원구청 보도정비 지장전주 이설-(이은영) 월석간1L1L2L1",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-08-01",
+      "endsOn": "2026-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 298",
+      "region": "WOLGYE1",
+      "locationNote": "공사명에 명시된 지번의 카카오 주소 검색 기준점입니다. 공사 범위·통제 위치를 뜻하지 않습니다. 행정동 구분은 확보한 월계1동 경계와 기준점을 비교했습니다.",
+      "pedestrianControl": "UNVERIFIED",
+      "position": {
+        "lat": 37.6285149707453,
+        "lng": 127.058962990725
+      }
+    },
+    {
+      "id": "seoul-fa7e24169a576d049523",
+      "permitNo": "노원구-2026-전기-0028",
+      "title": "월계동 (주)크로커스 일반용(갑)저압 240kW 신설 (3405-2026-3134 세왕 이다영)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-07-28",
+      "endsOn": "2026-09-28",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-08297730b1feb4075854",
+      "permitNo": "노원구-2026-일반-0033",
+      "title": "동-서 연결도로(과선교) 및 보행육교 건설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-07-24",
+      "endsOn": "2026-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a4a8d15da1f7a2a48c6d",
+      "permitNo": "노원구-2026-가스-0020",
+      "title": "월계동 42-9호 (장위6구역) 도시가스 인입 본관 철거공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-07-15",
+      "endsOn": "2026-08-14",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 42-9",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-0212246e939bf995b849",
+      "permitNo": "노원구-2026-전기-0025",
+      "title": "광운SW1R9 외 전주보강공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-06-22",
+      "endsOn": "2026-09-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1415569f2426e41a2411",
+      "permitNo": "노원구-2026-가스-0018",
+      "title": "월계동 66-5호(철도교) 주변 도시가스 본관 이설공사(시험굴착)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-06-15",
+      "endsOn": "2026-07-14",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도",
+        "특별시도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 66-5",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ac07cddb75ed65552e6e",
+      "permitNo": "노원구-2026-통신-0007",
+      "title": "성북구 장위6구역 주택재개발 지중화 관로 공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-06-11",
+      "endsOn": "2026-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-3ddaa4de0e1a0deb3be1",
+      "permitNo": "노원구-2026-전기-0018",
+      "title": "석계D/L 용량부족해소 선로확충공사_2차_지중_박준서",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-05-30",
+      "endsOn": "2026-09-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-c4d41af1dbb5e65f1e83",
+      "permitNo": "노원구-2026-기타-0015",
+      "title": "2026년 북부 교통신호기 신설 및 보수공사(연간단가-2구역)_신창중후문(경보)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-05-28",
+      "endsOn": "2026-08-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-d4f2f6c7cb56a5f2ae91",
+      "permitNo": "노원구-2026-상수-0053",
+      "title": "2025년 도봉, 노원구 관내 상수도시설물 설치 및 보수공사(월계동 383-3, 시설물 정비)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-05-19",
+      "endsOn": "2026-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 383-3",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1d532bbc64e6beffac5d",
+      "permitNo": "노원구-2026-기타-0005",
+      "title": "방범063 이설(긴급굴착)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-05-16",
+      "endsOn": "2026-05-29",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-67d16ac20ade5a4174ef",
+      "permitNo": "노원구-2026-상수-0048",
+      "title": "2025년 노원구 관내 급수공사(월계동 322-10, 신설-47)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-05-15",
+      "endsOn": "2026-05-22",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 322-10",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1ada33d71bc9cea24f15",
+      "permitNo": "노원구-2026-상수-0052",
+      "title": "2025년 노원구 관내 급수공사(월계동 산84-12, 신설-54)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-05-07",
+      "endsOn": "2026-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 산84-12",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4b9a953c54f33d970d52",
+      "permitNo": "노원구-2026-기타-0004",
+      "title": "광운대역~월계로간 도로개설 전기공사(2차구간)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-05-07",
+      "endsOn": "2026-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-b49d0628e1483732fb7e",
+      "permitNo": "노원구-2026-전기-0012",
+      "title": "말미간3R10R9-11 순시적출분 해소공사-신혜연",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-04-22",
+      "endsOn": "2026-07-01",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e395e4acb2ea7a7b678b",
+      "permitNo": "노원구-2026-하수-0010",
+      "title": "한글비석로 24길 24  일대 등 13개소 하수관로 개량공사(구도)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-04-10",
+      "endsOn": "2026-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-054da110d0d7d4182eaa",
+      "permitNo": "노원구-2026-상수-0031",
+      "title": "2025년 노원구 관내 급수공사(26년 대형 상수도관 세척 1구간, 추가 제반 공사)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-04-02",
+      "endsOn": "2026-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5d65693c826547292724",
+      "permitNo": "노원구-2025-전기-0046",
+      "title": "[22.9kV]월계동298 외 3개소 노원구청 보도정비 지장전주 이설-(이은영) 월석간1L1L2",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-04-01",
+      "endsOn": "2026-05-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 298",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-58e87518349168118ec3",
+      "permitNo": "노원구-2026-상수-0020",
+      "title": "2025년 노원구 관내 급수공사(대형 상수도관 세척 1구간)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-03-13",
+      "endsOn": "2026-12-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-32f1037a2952f5d491ff",
+      "permitNo": "노원구-2026-상수-0022",
+      "title": "2025년 노원구 관내 급수공사(월계동 411-11, 신설-44)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-03-10",
+      "endsOn": "2026-04-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 411-11",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1e8fa58a62f6d3007906",
+      "permitNo": "노원구-2026-상수-0019",
+      "title": "2025년 노원구 관내 급수공사(월계동 924-1, 신설-43)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-03-09",
+      "endsOn": "2026-04-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 924-1",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-93f1623231b67634a261",
+      "permitNo": "노원구-2026-상수-0003",
+      "title": "2025년 도봉, 노원구 관내 상수도시설물 설치 및 보수공사(월계동 19, 시설물)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-02-06",
+      "endsOn": "2026-03-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 19",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-db86b0f1386a45a832e7",
+      "permitNo": "노원구-2026-상수-0008",
+      "title": "2025년 북부 관내 긴급누수복구공사(시도 월계동 18)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-01-19",
+      "endsOn": "2026-01-24",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 18",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-58266bcf7820f12c628c",
+      "permitNo": "노원구-2025-일반-0055",
+      "title": "광운대역 보행육교 리모델링(캐노피공사)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-12-24",
+      "endsOn": "2025-12-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도",
+        "기타"
+      ],
+      "pavements": [
+        "보도",
+        "기타"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-aaeb6aee2a0b169d40ab",
+      "permitNo": "노원구-2025-상수-0114",
+      "title": "2025년 노원구 관내 급수공사(월계동 481-5, 소화전-19)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-28",
+      "endsOn": "2025-12-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 481-5",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a74ad99ab3f98581e67c",
+      "permitNo": "노원구-2025-상수-0112",
+      "title": "2025년 노원구 관내 급수공사(월계동 876-8, 신설-35)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-20",
+      "endsOn": "2025-12-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 876-8",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-b7a8c013b0cb50be4710",
+      "permitNo": "노원구-2025-하수-0031",
+      "title": "우이천 수변활력거점 조성공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-18",
+      "endsOn": "2025-11-28",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1c4ea122c2b44854b330",
+      "permitNo": "노원구-2025-일반-0050",
+      "title": "신창중학교 외부환경개선공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-17",
+      "endsOn": "2025-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "기타",
+        "구도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4ed00896aef6b597a6f9",
+      "permitNo": "노원구-2025-일반-0045",
+      "title": "노원구 전자게시대 설치공사_7",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-06",
+      "endsOn": "2025-11-20",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "기타"
+      ],
+      "pavements": [
+        "기타"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a5f5965be343203d356d",
+      "permitNo": "노원구-2025-일반-0046",
+      "title": "노원구 전자게시대 설치 공사_8",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-06",
+      "endsOn": "2025-11-20",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a38aedee37867c1c3ea5",
+      "permitNo": "노원구-2025-가스-0033",
+      "title": "월계동 66-5호(철도교) 주변 도시가스 본관 이설공사 (구도)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-01",
+      "endsOn": "2026-07-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 66-5",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-437045d99fa2253b3573",
+      "permitNo": "노원구-2025-상수-0090",
+      "title": "2025년 노원구 관내 급수공사(월계동 940, 개량-32, 철개교체)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-09-30",
+      "endsOn": "2025-10-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 940",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-8ff53d988ef8e31717e3",
+      "permitNo": "노원구-2025-하수-0026",
+      "title": "2025년 하수시설물 정비공사(연간단가) [월계동 500-6 일대 등 2개소]",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-09-22",
+      "endsOn": "2025-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 500-6",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a17afba1a3827bfe4383",
+      "permitNo": "노원구-2025-상수-0084",
+      "title": "2025년 노원구 관내 급수공사(월계동 414-2, 개량-29, 폐전)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-09-05",
+      "endsOn": "2025-10-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 414-2",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-296ce5f05dd5eb868fd2",
+      "permitNo": "노원구-2025-상수-0083",
+      "title": "2025년 노원구 관내 급수공사(월계동 76-9, 상수도시설물 정비)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-09-03",
+      "endsOn": "2025-10-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "기타"
+      ],
+      "pavements": [
+        "기타"
+      ],
+      "address": "서울특별시 노원구 월계동 76-9",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-91163871282d04f8468a",
+      "permitNo": "노원구-2025-하수-0020",
+      "title": "월계동 923-1 일대 하수관로 개량",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-08-21",
+      "endsOn": "2025-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "기타",
+        "구도"
+      ],
+      "pavements": [
+        "기타",
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 923-1",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-7b58ac15b181c9646609",
+      "permitNo": "노원구-2025-상수-0076",
+      "title": "2025년 도봉, 노원구 관내 상수도시설물 설치 및 보수공사(월계동 379-42, 변실정비)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-08-07",
+      "endsOn": "2025-10-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 379-42",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-12c838fe4a11e8d9e538",
+      "permitNo": "노원구-2025-상수-0066",
+      "title": "2025년 도봉, 노원구 관내 상수도시설물 설치 및 보수공사(월계동 379-42, 밸브교체)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-07-14",
+      "endsOn": "2025-09-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 379-42",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ea077dcc13f1880aefa5",
+      "permitNo": "노원구-2025-상수-0061",
+      "title": "2024년 노원구 관내 급수공사(월계동 671-23, 신설-67, 임시급수)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-06-25",
+      "endsOn": "2025-07-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 671-23",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5c471e19dce6450667f6",
+      "permitNo": "노원구-2025-일반-0030",
+      "title": "장위6구역 통신지중화 공사_화랑로 331-2",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-06-16",
+      "endsOn": "2025-06-17",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-94551434984c8fd0f68e",
+      "permitNo": "노원구-2025-일반-0028",
+      "title": "장위6구역 통신지중화공사_월계동47-37",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-06-09",
+      "endsOn": "2025-06-10",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 47-37",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-9fe19f9604099e6febd7",
+      "permitNo": "노원구-2025-하수-0014",
+      "title": "2025년 하수시설물 정비공사(연간단가)-광운로 65(긴급)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-06-09",
+      "endsOn": "2025-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-52f33e530ea5a8d65810",
+      "permitNo": "노원구-2025-상수-0054",
+      "title": "2024년 노원구 관내 급수공사(월계동 산108-28, 신설-63)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-06-05",
+      "endsOn": "2025-12-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 산108-28",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-663e07a3f27455b35323",
+      "permitNo": "노원구-2025-상수-0049",
+      "title": "2024년 노원구 관내 급수공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-05-26",
+      "endsOn": "2025-06-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-b3263123b3d9c209a03c",
+      "permitNo": "노원구-2025-상수-0047",
+      "title": "2024년 노원구 관내 급수공사(월계동 563, 음수대 인입배관 정비)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-05-15",
+      "endsOn": "2025-06-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 563",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-bf53f3ba1f1591913f76",
+      "permitNo": "노원구-2025-상수-0046",
+      "title": "월계동 장기사용 배급수관 정비공사_2구간",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-05-12",
+      "endsOn": "2026-04-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-7fbdf49147caf7fbe2a7",
+      "permitNo": "노원구-2025-상수-0027",
+      "title": "2024년 노원구 관내 급수공사(월계동 562, 음수대배관확인, 개량)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-04-07",
+      "endsOn": "2025-05-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 562",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-8c94708c2ca7325726c9",
+      "permitNo": "노원구-2025-난방-0023",
+      "title": "2023년~2025년 동부지사 열수송관 보수공사(녹천초교 삼거리 월릉교 방향 3차로)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-04-07",
+      "endsOn": "2025-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-02152fe238e930d6ce0e",
+      "permitNo": "노원구-2025-상수-0026",
+      "title": "2024년 노원구 관내 급수공사(월계동 429-72, 개량, 철개매몰)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-03-28",
+      "endsOn": "2025-05-15",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 429-72",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-18bb3b3bc8f28b66cf20",
+      "permitNo": "노원구-2025-상수-0021",
+      "title": "2025년 대형 상수도관 세척 사업(3구간, 월계동 409-1)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-03-20",
+      "endsOn": "2025-07-07",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 409-1",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a5b70c88f49c9b66e64a",
+      "permitNo": "노원구-2025-상수-0020",
+      "title": "2025년 대형 상수도관 세척 사업(4구간, 월계동 935-2)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-03-19",
+      "endsOn": "2025-07-07",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 935-2",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a6525b32a4ae6856a4e6",
+      "permitNo": "노원구-2025-상수-0017",
+      "title": "2024년 노원구 관내 급수공사(월계동 429-72~73, 개량)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-03-14",
+      "endsOn": "2025-05-07",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 429-72",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-c35a4f55f3d9f861a475",
+      "permitNo": "노원구-2025-일반-0012",
+      "title": "동북선도시철도건설공사 3공구",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-03-05",
+      "endsOn": "2025-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4646dc78f7c6d3c6e1ee",
+      "permitNo": "노원구-2024-상수-0100",
+      "title": "2024년 노원구 관내 급수공사(월계동 85, 폐전, 개량-23)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-12-20",
+      "endsOn": "2025-01-20",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 85",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4ba1306cb0dcf896b35a",
+      "permitNo": "노원구-2024-전기-0058",
+      "title": "석계역 전기차충전소 일반용 저압 215KW신설(340520243321, 동남아, 박준서)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-12-09",
+      "endsOn": "2024-12-13",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-f5ce85923f7ec5765b1a",
+      "permitNo": "노원구-2024-상수-0087",
+      "title": "2023년 노원구 관내 급수공사 - 소화전(상계동 820 외 3개소)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-11-28",
+      "endsOn": "2024-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-f97094c75ade087e4151",
+      "permitNo": "노원구-2024-하수-0037",
+      "title": "2024년 하수시설물 정비공사(연간단가, 광운로94 일대)-추가",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-11-25",
+      "endsOn": "2024-11-29",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-80815d0080182f41167d",
+      "permitNo": "노원구-2024-상수-0083",
+      "title": "2024년 노원구 관내 급수공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-11-20",
+      "endsOn": "2024-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-501a692511d78f5ec6c6",
+      "permitNo": "노원구-2023-일반-0009",
+      "title": "월계동 소화전이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-11-12",
+      "endsOn": "2024-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a136820fc4a6f6811602",
+      "permitNo": "노원구-2023-개인-00038",
+      "title": "월계동 소화전이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-11-12",
+      "endsOn": "2024-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "기타",
+        "구도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-d177bf4386813031d9a6",
+      "permitNo": "노원구-2024-기타-0031",
+      "title": "2024년 신규 불법주정차 단속용 CCTV 구매설치",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-11-08",
+      "endsOn": "2024-11-20",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-d45b66946e4bbcfbf924",
+      "permitNo": "노원구-2024-일반-0047",
+      "title": "월계삼창아파트 오수관로 긴급복구공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-11-06",
+      "endsOn": "2024-11-15",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-76a29b6cf9b90cbb15fe",
+      "permitNo": "노원구-2024-기타-0025",
+      "title": "2024년 교통신호기 신설 및 보수공사(연간단가-2구역)_녹천초교(연등)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-10-31",
+      "endsOn": "2024-11-22",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-fcfdf8d213b355f0ba54",
+      "permitNo": "노원구-2024-상수-0073",
+      "title": "2024년 노원구 관내 급수공사(월계동 890-3~877, 단절관 정비)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-10-16",
+      "endsOn": "2024-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 890-3",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-9248591b6e27741e2ac7",
+      "permitNo": "노원구-2024-일반-0041",
+      "title": "동북선 도시철도 건설공사 3공구",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-10-10",
+      "endsOn": "2024-10-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도",
+        "구도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1736cd4961e8c3b3e158",
+      "permitNo": "노원구-2024-하수-0034",
+      "title": "2024년 하수시설물 정비공사(연간단가, 광운로94 일대)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-10-08",
+      "endsOn": "2024-10-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도",
+        "특별시도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-57711e6f15e51c80e4bf",
+      "permitNo": "노원구-2024-상수-0070",
+      "title": "2024년 노원구 관내 급수공사(대형관 세척 작업구 설치 및 제반공사, 4구간)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-10-01",
+      "endsOn": "2024-10-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-113a9c1c81fb77eb6cce",
+      "permitNo": "노원구-2024-방문-0009",
+      "title": "월계동 951-1 신축공사로 인한 보안등 이설 공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-09-05",
+      "endsOn": "2024-09-09",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 951-1",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-78a4684b542372ed350a",
+      "permitNo": "노원구-2024-상수-0059",
+      "title": "2024년 노원구 관내 급수공사(월계동 476-12, 소화전-13)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-09-05",
+      "endsOn": "2024-09-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "기타",
+        "구도"
+      ],
+      "pavements": [
+        "기타",
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 476-12",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-495dafd7eadeb6195016",
+      "permitNo": "노원구-2024-전기-0035",
+      "title": "월계동 85 GTX-C건설공사 지장전주",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-08-12",
+      "endsOn": "2024-10-10",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 85",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-794585c8c816f55762be",
+      "permitNo": "노원구-2024-하수-0018",
+      "title": "2024년 하수시설물 정비공사(월계동 275-3)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-06-07",
+      "endsOn": "2024-07-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 275-3",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5a2d23de7a96c12d17ae",
+      "permitNo": "노원구-2024-일반-0019",
+      "title": "동북선 도시철도 건설공사 3공구",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-05-27",
+      "endsOn": "2024-06-28",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1233782ac2eaddd9d8f8",
+      "permitNo": "노원구-2024-일반-0016",
+      "title": "서울특별시 노원구 월계동 367-1번지 외4필지 창고(화장실) 오수관로 매설 공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-05-16",
+      "endsOn": "2024-07-05",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 367-1",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e61d412c902abfe4b684",
+      "permitNo": "노원구-2024-일반-0018",
+      "title": "소화전 파손 복구",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-04-18",
+      "endsOn": "2024-04-18",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-b484ea17640e859afb61",
+      "permitNo": "노원구-2024-전기-0012",
+      "title": "월계동595 노원구청 보도신설 지장전주(동남아, 341220243077, 이병관)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-04-15",
+      "endsOn": "2024-05-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 595",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a8f39798b8db5b2158cb",
+      "permitNo": "노원구-2024-하수-0003",
+      "title": "2023년 하수시설물 정비공사(월계동 63-8)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-03-18",
+      "endsOn": "2024-03-29",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 63-8",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-f806639c731d683d3f21",
+      "permitNo": "노원구-2024-일반-0005",
+      "title": "홍수대책  필요교량 정비방안 기본계획 수립용역 지반조사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-03-08",
+      "endsOn": "2024-03-29",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-19f66d997b9999702395",
+      "permitNo": "노원구-2024-일반-0003",
+      "title": "23년 서울에너지공사 가로등충전기 설치공사_월계동 거주자우선주차장",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-03-07",
+      "endsOn": "2024-03-29",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-d434f318449857528c7d",
+      "permitNo": "노원구-2024-하수-0002",
+      "title": "2023년 하수시설물 정비공사(연간단가, 긴급)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-02-27",
+      "endsOn": "2024-04-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4773fb9ed8b5f2c9660f",
+      "permitNo": "노원구-2024-일반-0001",
+      "title": "노원구 월계동 429-43",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-01-08",
+      "endsOn": "2024-01-15",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 429-43",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-0a89ee25cf9c7023ca4c",
+      "permitNo": "노원구-2024-상수-0002",
+      "title": "2023년노원구관내급수공사(월계동 429-43)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2024-01-04",
+      "endsOn": "2024-01-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 429-43",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ee361205e62806c3acfc",
+      "permitNo": "노원구-2023-개인-00047",
+      "title": "월계동 소화전이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-12-11",
+      "endsOn": "2023-12-29",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ef8aea49e1488b29907e",
+      "permitNo": "노원구-2023-하수-0040",
+      "title": "2023년 하수시설물 정비공사(연간단가, 석계로 98-1)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-12-08",
+      "endsOn": "2023-12-15",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-46e8448e2b0b471c2311",
+      "permitNo": "노원구-2023-상수-0135",
+      "title": "2023년노원구관내급수공사(월계동 620-3)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-11-27",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 620-3",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-777e7f358fdcef11a6b2",
+      "permitNo": "노원구-2023-상수-0136",
+      "title": "2023년 북부수도 관내 포장도로 굴착복구공사(석계로 17)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-11-27",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-2345c3698f8557167809",
+      "permitNo": "노원구-2023-일반-0011",
+      "title": "동북선 도시철도 민간투자사업(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-11-23",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "기타"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-bd7ba0938423b6084889",
+      "permitNo": "노원구-2023-기타-0035",
+      "title": "관광안내표지판 설치",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-11-14",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-2bd1e9a41827ec791bda",
+      "permitNo": "노원구-2023-전기-0050",
+      "title": "월계동gs칼텍스 저압210kw신설(340520233245, 동남아, 이주진)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-09-26",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4d5eb2e963a68cfeacc8",
+      "permitNo": "노원구-2023-상수-0112",
+      "title": "2023년노원구관내급수공사(월계동_소화전이설등)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-09-18",
+      "endsOn": "2023-10-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도",
+        "특별시도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ef04e659e08a7f17ede4",
+      "permitNo": "노원구-2023-개인-00046",
+      "title": "동북선 도시철도 민간투자사업(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-09-06",
+      "endsOn": "2023-10-13",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도",
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4d90b14d40304cc33199",
+      "permitNo": "노원구-2023-상수-00083",
+      "title": "2022년노원구관내급수공사(대형관세척시설물설치)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-09-01",
+      "endsOn": "2023-10-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도",
+        "특별시도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a57c15c47953b438abdf",
+      "permitNo": "노원구-2023-상수-00083",
+      "title": "2022년노원구관내급수공사(대형관세척시설물설치)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-09-01",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-084496dd4b4465cf07a1",
+      "permitNo": "노원구-2023-하수-00032",
+      "title": "광운로 15 일대 등 3개소 하수관로 개량공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-08-07",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a435018e1b6233ca6719",
+      "permitNo": "노원구-2023-하수-00031",
+      "title": "광운로 15 일대 등 3개소 하수관로 개량공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-08-07",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-c732d3e7ddf9830f9db4",
+      "permitNo": "노원구-2023-하수-00033",
+      "title": "광운로 15 일대 등 3개소 하수관로 개량공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-08-07",
+      "endsOn": "2023-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-603cb7c565b3bf30a50b",
+      "permitNo": "노원구-2023-상수-00101",
+      "title": "2023년노원구관내급수공사(경춘선숲길 화장실)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-07-31",
+      "endsOn": "2023-08-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-865acd72a726dc0279bc",
+      "permitNo": "노원구-2023-통신-00010",
+      "title": "월계동 20-3 풍림APT 후문 kt전주이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-06-13",
+      "endsOn": "2023-07-14",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 20-3",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-09f627c98f1534dbfb9c",
+      "permitNo": "노원구-2023-전기-00028",
+      "title": "월계동 초안산공원 지장설비 이설",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-06-09",
+      "endsOn": "2023-07-15",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a12fe85e0bdfdbcac40c",
+      "permitNo": "노원구-2023-전기-00027",
+      "title": "월계동 779 비석골공원 47kw 신설",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-05-23",
+      "endsOn": "2023-06-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 779",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-589f85644c1ebf0255d3",
+      "permitNo": "노원구-2023-개인-00028",
+      "title": "월계초 오우수관 연결공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-05-12",
+      "endsOn": "2023-05-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5ef08727771d88f92a41",
+      "permitNo": "노원구-2023-가스-00013",
+      "title": "월계1동 석계로3길 27(월계동 68-9호 앞) 주택재건축 정비사업 주변공급관 이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-05-10",
+      "endsOn": "2023-06-10",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 68-9",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-c4d8cc3e337226fbb7dc",
+      "permitNo": "노원구-2023-가스-00014",
+      "title": "월계1동 석계로1길 74(월계동 472-40호 앞) 주택재건축 정비사업 주변 공급관 CAP 마감",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-05-10",
+      "endsOn": "2023-06-10",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 472-40",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-31ba280894b1b49a92ca",
+      "permitNo": "노원구-2023-기타-00006",
+      "title": "2023년 교통신호기 신설 및 보수공사(북부도로 연간단가-2구역)-신설(대풍정육점앞)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-04-24",
+      "endsOn": "2023-06-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-86d567829406ecf2aac2",
+      "permitNo": "노원구-2023-기타-00013",
+      "title": "2023년 교통신호기 신설 및 보수공사(북부도로 연간단가-2구역)-월계변전소_경보",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-04-24",
+      "endsOn": "2023-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-435286782edb3ef85b92",
+      "permitNo": "노원구-2023-상수-00052",
+      "title": "2022년노원구관내급수공사(월계동 863-8)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-04-20",
+      "endsOn": "2023-05-10",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 863-8",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-cdab161ea7e44365cdc6",
+      "permitNo": "노원구-2023-상수-00046",
+      "title": "2022년 노원구 관내 급수공사(월계동 477-4 외1필지_신설)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-04-13",
+      "endsOn": "2023-04-28",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 477-4",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-cf3b5d6f046365d386a3",
+      "permitNo": "노원구-2023-상수-00045",
+      "title": "2022년노원구관내급수공사(월계동951-1_신설)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-04-13",
+      "endsOn": "2023-04-28",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 951-1",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e15cc57e5dfe639e9cc7",
+      "permitNo": "노원구-2023-상수-00022",
+      "title": "2023년 노원구 관내 급수공사(월계동 860-17_개량)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-04-10",
+      "endsOn": "2023-06-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 860-17",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-6905174a86fde7047fd4",
+      "permitNo": "노원구-2023-상수-00025",
+      "title": "2022년노원구관내급수공사(비석골근린공원 2개소)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-04-03",
+      "endsOn": "2023-04-28",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-8dd218425e6445a7920a",
+      "permitNo": "노원구-2023-개인-00017",
+      "title": "동북선 도시철도 민간투자사업(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-03-27",
+      "endsOn": "2023-04-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "기타"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1f768c369ff9a13a95a8",
+      "permitNo": "노원구-2023-개인-00016",
+      "title": "동북선 도시철도 민간투자사업(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-03-23",
+      "endsOn": "2023-03-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5168a4cb9551d75a405c",
+      "permitNo": "노원구-2023-개인-00016",
+      "title": "동북선 도시철도 민간투자사업(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-03-23",
+      "endsOn": "2023-04-21",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-d7251e39cc123bd3e57e",
+      "permitNo": "노원구-2023-가스-00012",
+      "title": "월계1동 석계로3길 36(월계동 486-6호 앞) 주택재건축 정비사업 주변공급관 철거공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-03-13",
+      "endsOn": "2023-04-05",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 486-6",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-bea35dd479fe2ec997c3",
+      "permitNo": "노원구-2023-가스-00010",
+      "title": "월계1동 석계로3길 41(월계동 485-5호 앞) 주택재건축 정비사업 주변공급관 철거공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-03-06",
+      "endsOn": "2023-04-05",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 485-5",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-bb7b2c9eb511a7c889ab",
+      "permitNo": "노원구-2023-상수-00023",
+      "title": "2022년 노원구 관내 급수공사-2차(23년 소화전 보수 1차)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-03-02",
+      "endsOn": "2023-03-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1fbb2f4ff283f96d39bc",
+      "permitNo": "노원구-2023-개인-00003",
+      "title": "월계동 재건축정비사업 상수도공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-03-01",
+      "endsOn": "2023-04-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5928400f2010d82bcbcf",
+      "permitNo": "노원구-2023-상수-00006",
+      "title": "2022년노원구관내급수공사(월계동933_영축산근린공원 수도신설)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-03-01",
+      "endsOn": "2023-03-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 933",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-999b20cdd92067144649",
+      "permitNo": "노원구-2023-가스-00007",
+      "title": "월계동 석계로3길41(월계동 485-5호) 외 1개소 도시가스 인입배관 철거공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2023-02-13",
+      "endsOn": "2023-03-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 485-5",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e731c5ba5d0068f27423",
+      "permitNo": "노원구-2022-개인-00088",
+      "title": "월계동376-16 하수관연결공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-12-06",
+      "endsOn": "2022-12-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 376-16",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5e0b667e1bbd1e2a0b6d",
+      "permitNo": "노원구-2022-개인-00088",
+      "title": "월계동376-16 하수관연결공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-12-02",
+      "endsOn": "2022-12-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 376-16",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-3e909ae850a529f3f985",
+      "permitNo": "노원구-2022-개인-00087",
+      "title": "월계재건축정비사업 상수도공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-11-28",
+      "endsOn": "2022-12-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-107fd9115723917ba1bb",
+      "permitNo": "노원구-2022-전기-00035",
+      "title": "월계동 410-3 우리자산신탁 구내활용 지장전주_3219이병관(성원)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-11-09",
+      "endsOn": "2022-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 410-3",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-077525d970557b1ad523",
+      "permitNo": "노원구-2022-하수-00053",
+      "title": "2022년 하수시설물 정비공사(연간단가)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-10-25",
+      "endsOn": "2022-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-99170bfad26a2e60309e",
+      "permitNo": "노원구-2022-통신-00032",
+      "title": "2586426-노원구 IP주 건식-11본-2",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-10-24",
+      "endsOn": "2022-11-24",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ce9f6381e0be5f87e6ca",
+      "permitNo": "노원구-2022-하수-00052",
+      "title": "2022년 하수시설물 정비공사(연간단가)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-10-08",
+      "endsOn": "2022-11-25",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-147fd247763fdd0e3be4",
+      "permitNo": "노원구-2022-상수-00103",
+      "title": "2022년도봉노원구 관내 상수도 시설물공사(대형관세척시설물)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-10-06",
+      "endsOn": "2022-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도",
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-0fe6a176d6206d4573a9",
+      "permitNo": "노원구-2022-상수-00105",
+      "title": "2022년 노원구 관내 급수공사(월계동 924-3_개량)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-10-04",
+      "endsOn": "2022-11-25",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 924-3",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-91d03775b13a5f036d57",
+      "permitNo": "노원구-2022-개인-00067",
+      "title": "월계동 508-70 개인우수관 보수공사(2)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-09-13",
+      "endsOn": "2022-09-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 508-70",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ee9f8c54d076dac374dd",
+      "permitNo": "노원구-2022-개인-00066",
+      "title": "월계동 508-70 개인하수관 보수공사(1)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-09-13",
+      "endsOn": "2022-09-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 508-70",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a0734cc2e830e1c9d464",
+      "permitNo": "노원구-2022-전기-00045",
+      "title": "월계동783-1 대영채비(주) 일반용(갑)저압 229kw 신설_성원(23146)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-08-19",
+      "endsOn": "2022-09-19",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 783-1",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-0b3989dadedbaa524183",
+      "permitNo": "노원구-2022-상수-00100",
+      "title": "2022년노원구관내급수공사(월계동472-22_신설)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-08-11",
+      "endsOn": "2022-08-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 472-22",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e5d41f39cb0c62a54747",
+      "permitNo": "노원구-2022-개인-00057",
+      "title": "광운로4-23 하수관연결공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-07-29",
+      "endsOn": "2022-08-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-16d29555bacf0893c818",
+      "permitNo": "노원구-2022-통신-00023",
+      "title": "월계동 37-9 kt통신주 이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-07-25",
+      "endsOn": "2022-08-19",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 37-9",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-f3957a3cd7237d8756de",
+      "permitNo": "노원구-2022-기타-00025",
+      "title": "버스승강장 설치",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-07-20",
+      "endsOn": "2022-07-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-16cfa73495fda17923a2",
+      "permitNo": "노원구-2022-기타-00017",
+      "title": "장월교 개축공사 교통안전시설(신호)설치공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-07-19",
+      "endsOn": "2022-08-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도",
+        "기타"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-004c6bc45e270215ff8a",
+      "permitNo": "노원구-2022-상수-00074",
+      "title": "2021년노원구관내급수공사(월계동380-8_신설)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-06-01",
+      "endsOn": "2022-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 380-8",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-28f52af4b4dc3b033835",
+      "permitNo": "노원구-2022-상수-00071",
+      "title": "도봉노원구관내 상수도시설물 설치 및 보수공사(월계동 775-2)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-05-20",
+      "endsOn": "2022-06-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 775-2",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5767e99fd6f8f7ff5ea6",
+      "permitNo": "노원구-2022-상수-00072",
+      "title": "도봉노원구관내 상수도시설물 설치 및 보수공사(월계동 393-8)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-05-20",
+      "endsOn": "2022-06-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 393-8",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-9784f6c02dff1e64a3ac",
+      "permitNo": "노원구-2022-기타-00012",
+      "title": "2022년 교통신호기 신설 및 보수공사(연간단가-2구역) 녹천역두산위브(경보)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-05-04",
+      "endsOn": "2022-06-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1f6d90be6bac8ce7490e",
+      "permitNo": "노원구-2022-기타-00016",
+      "title": "녹천역 4번출구 보안등 이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-04-26",
+      "endsOn": "2022-04-27",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-40d730add16ce1cf697e",
+      "permitNo": "노원구-2022-기타-00005",
+      "title": "2022년 교통신호기 신설 및 보수공사(연간단가-2구역) 녹천초교주변",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-04-14",
+      "endsOn": "2022-05-13",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "기타",
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e8d55c9cfa6f40f0c20f",
+      "permitNo": "노원구-2022-전기-00007",
+      "title": "동북선 도시철도 3공구 110정거장 지장이설 보도 평해_이병관",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-04-14",
+      "endsOn": "2022-05-29",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-91ce7e38381ef73b4187",
+      "permitNo": "노원구-2022-전기-00010",
+      "title": "월계동 노원구청 보행환경개선 지장전주_3010이병관(성원)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2022-03-22",
+      "endsOn": "2022-05-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e87d040ec918a0f15d49",
+      "permitNo": "노원구-2021-개인-00100",
+      "title": "동북선도시철도건설공사(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-12-20",
+      "endsOn": "2022-01-20",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5837d53997f8385fe2ae",
+      "permitNo": "노원구-2021-전기-00071",
+      "title": "월계동 이용희 신축 지장전주_3403백영훈(성원) 철거 및 신설",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-12-15",
+      "endsOn": "2022-04-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-029e648903a0c8ec2947",
+      "permitNo": "노원구-2021-개인-00102",
+      "title": "동북선도시철도건설공사(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-12-10",
+      "endsOn": "2022-01-10",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-60bfb895fca751b80161",
+      "permitNo": "노원구-2021-개인-00101",
+      "title": "동북선도시철도건설공사(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-12-10",
+      "endsOn": "2022-01-10",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4defd2ea1250b27fe83f",
+      "permitNo": "노원구-2021-전기-00065",
+      "title": "쌍덕간42R2등 VP및 열화 변압기 교체공사_임호식3465(성원)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-11-22",
+      "endsOn": "2022-01-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-6bda67c800eba688a3b8",
+      "permitNo": "노원구-2021-개인-00090",
+      "title": "월계동 382-23 하수관연결공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-11-15",
+      "endsOn": "2021-12-14",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 382-23",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-2ae65d313d4f9047d3e4",
+      "permitNo": "노원구-2021-기타-00054",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_ 월계삼호37동앞",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-28",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-81b4c6ccd9d86588c1c3",
+      "permitNo": "노원구-2021-기타-00052",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계3치안센터 및 연등",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-27",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-8c4949b9f3dab27aeb1c",
+      "permitNo": "노원구-2021-기타-00055",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계삼호37동앞- 추가",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-27",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-8d3b3dcd76ba2a924385",
+      "permitNo": "노원구-2021-기타-00054",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_ 월계삼호37동앞",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-27",
+      "endsOn": "2021-11-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-045cbaecb8a7325ccd52",
+      "permitNo": "노원구-2021-기타-00052",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계3치안센터 및 연등",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-26",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5722ae5dc5d7d40880b1",
+      "permitNo": "노원구-2021-기타-00053",
+      "title": "2021년 교통신호기 신설 및 보수공사 (연간단가-통합)_월계삼호30동앞 추가",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-26",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-d775889b3e95434047c1",
+      "permitNo": "노원구-2021-기타-00054",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_ 월계삼호37동앞",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-26",
+      "endsOn": "2021-11-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-324d716021edb3f4ec5e",
+      "permitNo": "노원구-2021-기타-00051",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계삼호30동앞",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-25",
+      "endsOn": "2021-11-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-513ac9936f0cf6d98088",
+      "permitNo": "노원구-2021-기타-00052",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계3치안센터 및 연등",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-25",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-7ed891340c67e9805781",
+      "permitNo": "노원구-2021-상수-00084",
+      "title": "2021년 노원구관내상수도공사(월계동 322-6_수질측정기설치)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-25",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 322-6",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-7ef34ebfddcbd9501aa0",
+      "permitNo": "노원구-2021-기타-00052",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계3치안센터 및 연등",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-25",
+      "endsOn": "2021-11-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ff6b6ac5f0cc91514fe8",
+      "permitNo": "노원구-2022-상수-00029",
+      "title": "2021년노원구관내급수공사(월계동 376-2 _신설)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-25",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 376-2",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-93e68cd925c06bccb114",
+      "permitNo": "노원구-2021-상수-00082",
+      "title": "2021년 노원구관내상수도공사(월계동411-47_수질측정기설치)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-19",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 411-47",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-6c35b3538434991788bf",
+      "permitNo": "노원구-2021-전기-00056",
+      "title": "동북선 도시철도 3공구 110 정거장 지장이설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-18",
+      "endsOn": "2021-11-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-b28e57bad66d2c28ccce",
+      "permitNo": "노원구-2021-전기-00053",
+      "title": "동북선 도시철도 3공구 110 정거장 이설공사(주유소) 건주 평해_영훈",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-18",
+      "endsOn": "2021-11-22",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-ade9a32496ff295e3e2b",
+      "permitNo": "노원구-2021-전기-00054",
+      "title": "동북선 도시철도 3공구 110 정거장 지장이설공사(주유소 앞)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-14",
+      "endsOn": "2021-11-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-23ea2767f18c1a069d0a",
+      "permitNo": "노원구-2021-기타-00052",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계3치안센터 및 연등",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-13",
+      "endsOn": "2021-11-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-d0bd84a9c9838da62c35",
+      "permitNo": "노원구-2021-기타-00051",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계삼호30동앞",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-10-13",
+      "endsOn": "2021-11-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-013f7b057175d26a21e3",
+      "permitNo": "노원구-2021-전기-00055",
+      "title": "동북선 도시철도 3공구 110 정거장 지장이설공사(세차장 앞)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-09-27",
+      "endsOn": "2021-11-26",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-1529e79e230cc99d7a77",
+      "permitNo": "노원구-2021-기타-00044",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-2구역)(북부)_월계국민은행(토목병행)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-09-13",
+      "endsOn": "2021-10-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4f3342332a3739d4da46",
+      "permitNo": "노원구-2021-통신-00025",
+      "title": "월계동 935번지일대 동북선 도시철도 관련 통신관로 구축공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-09-13",
+      "endsOn": "2021-10-29",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 935",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-19f7beb69d8de9311282",
+      "permitNo": "노원구-2021-통신-00025",
+      "title": "월계동 935번지일대 동북선 도시철도 관련 통신관로 구축공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-09-08",
+      "endsOn": "2021-10-29",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 935",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-148da607aef896de6e39",
+      "permitNo": "노원구-2021-기타-00044",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-2구역)(북부)_월계국민은행(토목병행)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-08-23",
+      "endsOn": "2021-10-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-26921430694097551084",
+      "permitNo": "노원구-2021-상수-00069",
+      "title": "2021년노원구관내급수공사(월계동68-97외3_폐전)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-26",
+      "endsOn": "2021-08-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "기타",
+        "구도",
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 68-97",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-45de77eaa8b3f9db69bf",
+      "permitNo": "노원구-2021-개인-00057",
+      "title": "동북선도시철도건설공사(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-26",
+      "endsOn": "2021-11-19",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-a90aac06dca173f494b8",
+      "permitNo": "노원구-2021-개인-00059",
+      "title": "동북선도시철도건설공사(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-26",
+      "endsOn": "2021-11-19",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-d77def652eb062d3ea2f",
+      "permitNo": "노원구-2021-개인-00058",
+      "title": "동북선도시철도건설공사(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-26",
+      "endsOn": "2021-11-19",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "기타"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-f8f8193e321593955599",
+      "permitNo": "노원구-2021-기타-00038",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_한천교 교차로",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-22",
+      "endsOn": "2021-09-18",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-6ba73674d1f98bbf98ba",
+      "permitNo": "노원구-2021-기타-00037",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계건강관리센터",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-20",
+      "endsOn": "2021-09-18",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-02d6ef7e0828d377524c",
+      "permitNo": "노원구-2021-기타-00037",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_월계건강관리센터",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-19",
+      "endsOn": "2021-09-18",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-b53afcf7c068534d5f65",
+      "permitNo": "노원구-2021-기타-00038",
+      "title": "2021년 교통신호기 신설 및 보수공사(연간단가-통합)_한천교 교차로",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-19",
+      "endsOn": "2021-09-18",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-630dc9e8536fea121c4d",
+      "permitNo": "노원구-2021-상수-00059",
+      "title": "2021년노원구관내급수공사(월계동 268)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-07-14",
+      "endsOn": "2021-07-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 268",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-802ffef57511c3b1c322",
+      "permitNo": "노원구-2021-개인-00050",
+      "title": "월계동 268 하수관연결공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-06-25",
+      "endsOn": "2021-07-21",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 268",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e4c89eb089b5439d878b",
+      "permitNo": "노원구-2021-상수-00054",
+      "title": "2021년노원구관내급수공사(월계동85_신설)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-06-14",
+      "endsOn": "2021-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 85",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-7db0166cf672df01add5",
+      "permitNo": "노원구-2021-개인-00045",
+      "title": "월계동 37-10 11하수관연결공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-06-11",
+      "endsOn": "2021-06-19",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 37-10",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-0b81a690af85dba878e8",
+      "permitNo": "노원구-2021-상수-00044",
+      "title": "2021년노원구관내급수공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-06-01",
+      "endsOn": "2021-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-32af284fe9f4de76afae",
+      "permitNo": "노원구-2021-상수-00043",
+      "title": "2020년노원구관내급수공사(월계동1_한내근린공원 신설)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2021-05-26",
+      "endsOn": "2021-06-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 1",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-aa5cdefd98dcdcbc6234",
+      "permitNo": "노원구-2020-통신-00029",
+      "title": "버스정류장 공공와이파이 구축용 통신주 신설",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-11-23",
+      "endsOn": "2020-12-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-eb085307fb72915313b3",
+      "permitNo": "노원구-2026-일반-0006",
+      "title": "동북선도시철도건설공사(3공구)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-11-01",
+      "endsOn": "2027-11-11",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도",
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-932f2d73c17fe8564479",
+      "permitNo": "노원구-2020-기타-00038",
+      "title": "광운로1길 가로등 설치공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-09-21",
+      "endsOn": "2020-09-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-cc19d2c5191886122e98",
+      "permitNo": "노원구-2020-하수-00054",
+      "title": "하수시설물 정비공사(월계초 하수관로 이설관련)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-08-28",
+      "endsOn": "2020-09-07",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-3d224f15ea8ba649bf77",
+      "permitNo": "노원구-2020-전기-00040",
+      "title": "광운로1길 지중화공사_한국플랜트서비스(주)_백영훈",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-06-15",
+      "endsOn": "2020-07-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도",
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-6c51e09cd1dd2b782a59",
+      "permitNo": "노원구-2020-통신-00016",
+      "title": "광운로1길 지중화공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-06-05",
+      "endsOn": "2020-11-20",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-7bd122218a3df811c574",
+      "permitNo": "노원구-2020-통신-00008",
+      "title": "광운로1길 한전주철거로인한 원인자 지중화 매설공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-05-11",
+      "endsOn": "2020-11-20",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-baf651b436323687fa79",
+      "permitNo": "노원구-2020-통신-00010",
+      "title": "마들로1길_한전주 철거에 따른 통신관로 공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-04-20",
+      "endsOn": "2020-05-15",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-cdccf3fdb57fd7d44867",
+      "permitNo": "노원구-2020-개인-00015",
+      "title": "2020년노원구어린이보호용CCTV구매설치3",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-03-18",
+      "endsOn": "2020-03-24",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e0ea33288e39e23aab5d",
+      "permitNo": "노원구-2020-개인-00015",
+      "title": "2020년노원구어린이보호용CCTV구매설치3",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2020-03-18",
+      "endsOn": "2020-03-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도",
+        "기타"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-97f13342d22603b17f64",
+      "permitNo": "노원구-2019-기타-00124",
+      "title": "방범CCTV 설치공사(2차)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-11-15",
+      "endsOn": "2019-11-20",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-abda6ba0b9f50d34764b",
+      "permitNo": "노원구-2019-기타-00115",
+      "title": "한내지혜의숲앞 무인단속카메라 설치공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-10-22",
+      "endsOn": "2019-11-20",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-eadf4890f5c27c615733",
+      "permitNo": "노원구-2019-상수-00133",
+      "title": "2019년 노원구 관내 급수공사(상계동 718-2외 5개소 시편채취)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-07-17",
+      "endsOn": "2019-08-30",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5f74dccd260b3c044f6c",
+      "permitNo": "노원구-2019-상수-00031",
+      "title": "2018년 노원구 관내 급수공사(월계동 산 17-7)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-07-03",
+      "endsOn": "2019-07-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-b7565ac3da1852ceb5ac",
+      "permitNo": "노원구-2019-통신-00014",
+      "title": "2019년 월계동247-8 참하관로 보수공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-07-01",
+      "endsOn": "2019-07-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 247-8",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-631a2a5bce5069a54cc9",
+      "permitNo": "노원구-2019-상수-00087",
+      "title": "2018년노원구관내급수공사(월계동276-19_폐전)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-06-24",
+      "endsOn": "2019-07-24",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 276-19",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-33c5d517aa4fab74fe45",
+      "permitNo": "노원구-2019-상수-00110",
+      "title": "노원구관내급수공사(월계동 379-30)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-06-17",
+      "endsOn": "2019-07-17",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 379-30",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5edce6b6d52ec77acc77",
+      "permitNo": "노원구-2019-상수-00099",
+      "title": "2018년노원구관내급수공사(월계동73-10_수전분리)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-06-10",
+      "endsOn": "2019-07-10",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 73-10",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-b6f7bab58cb202d22fb1",
+      "permitNo": "노원구-2019-상수-00103",
+      "title": "2018년 노원구 관내 급수공사(월계동 940 소화전보수)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-05-27",
+      "endsOn": "2019-06-28",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 940",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-7a6fb5d40c4020e879b3",
+      "permitNo": "노원구-2019-상수-00098",
+      "title": "쌍문동 372-19 ~ 137-240외 3필지 배급수관 정비공사(월계동 914)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2019-05-20",
+      "endsOn": "2019-06-21",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 914",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-e5817cec7eaaac86286d",
+      "permitNo": "노원구-2018-상수-00192",
+      "title": "2018년 노원구 관내 급수공사(월계동 383-11)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-11-30",
+      "endsOn": "2018-12-30",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 383-11",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4e645f933403fe1e6720",
+      "permitNo": "노원구-2018-전기-00076",
+      "title": "월계동534-96 천주교서울대교구 고압A 400KW신설_김민하(바우)83473",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-11-22",
+      "endsOn": "2018-12-22",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 534-96",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-4161b1ebe672c760cc48",
+      "permitNo": "노원구-2018-상수-00186",
+      "title": "2018년 노원구 관내 급수공사(중계동 506외 16개소 소화전보수)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-11-19",
+      "endsOn": "2018-12-28",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-5f77fd4020116523ae5b",
+      "permitNo": "노원구-2018-기타-00044",
+      "title": "2018년 교통신호기 설치 및 보수공사(연간단가-2구역)북부(선곡초교)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-09-17",
+      "endsOn": "2018-10-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "보도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-43f781691ef257cba58d",
+      "permitNo": "노원구-2018-가스-00031",
+      "title": "광운로2가길 17-6(월계동 473-10) 외 8개소 도시가스 인입관 철거공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-09-10",
+      "endsOn": "2018-09-24",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 473-10",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-29ef8d65f7a5515b973d",
+      "permitNo": "노원구-2018-상수-00117",
+      "title": "2018년노원구관내급수공사(월계동73-6)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-08-13",
+      "endsOn": "2018-09-13",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "address": "서울특별시 노원구 월계동 73-6",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-2e179b5f036122365336",
+      "permitNo": "노원구-2018-상수-00070",
+      "title": "무단수급수체계공사(월계2)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-07-23",
+      "endsOn": "2018-08-31",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-8e698d6bf4575a019271",
+      "permitNo": "노원구-2018-상수-00062",
+      "title": "2017년 노원구 관내 시설물공사(월계동 562)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-05-15",
+      "endsOn": "2018-05-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도",
+        "보도"
+      ],
+      "address": "서울특별시 노원구 월계동 562",
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-da5e6c483e4ec21a5725",
+      "permitNo": "노원구-2018-개인-00007",
+      "title": "개인하수관공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2018-03-31",
+      "endsOn": "2018-04-07",
+      "administrativeStatus": "허가증 교부",
+      "roadKinds": [
+        "특별시도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    },
+    {
+      "id": "seoul-7063d3b186ceac59174b",
+      "permitNo": "노원구-2016-전기-00054",
+      "title": "말미간42L1 균열전주교체공사 (주광43085-김민하)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2016-11-11",
+      "endsOn": "2016-12-31",
+      "administrativeStatus": "착공계 접수",
+      "roadKinds": [
+        "구도"
+      ],
+      "pavements": [
+        "차도"
+      ],
+      "region": "UNVERIFIED",
+      "locationNote": "원자료는 법정동 월계동 기준입니다. 정확한 공사 구간과 행정동은 미확인입니다.",
+      "pedestrianControl": "UNVERIFIED"
+    }
+  ],
+  "collection": {
+    "endpoint": "https://data.seoul.go.kr/dataList/dataView.do",
+    "filter": "ADSTRD_CD contains 월계; district 노원구; dong 월계동",
+    "sha256": "2832ba4adeaccd1076a177a14adf3d6bb68cd1ecbd09b66050394e2bf9e61a65",
+    "geocodingFailures": 0,
+    "rejected": [
+      {
+        "permitNo": "노원구-2020-하수-00053",
+        "period": "2020-09-28 ~ 2020-09-07",
+        "reason": "원자료 공사기간 오류"
+      }
+    ]
+  }
+}

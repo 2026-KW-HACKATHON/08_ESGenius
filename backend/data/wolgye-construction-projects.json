@@ -1,0 +1,263 @@
+{
+  "collectedAt": "2026-10-08T11:27:40.458Z",
+  "sourceUrl": "https://data.seoul.go.kr/dataList/OA-1222/A/1/datasetView.do",
+  "sourceName": "서울특별시 · 건설알림이 (OA-1222)",
+  "license": "공공누리 제1유형 · 서울특별시 출처표시",
+  "rawCount": 11,
+  "items": [
+    {
+      "id": "cis-6112025110577",
+      "permitNo": "6112025110577",
+      "title": "영축산 근린공원(월계동 산138-1) 조성공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-05",
+      "endsOn": "2026-01-05",
+      "administrativeStatus": "건설알림이 사업 등록",
+      "roadKinds": [],
+      "pavements": [],
+      "position": {
+        "lat": 37.6227279380261,
+        "lng": 127.05712030201
+      },
+      "region": "WOLGYE1",
+      "address": "서울 노원구 월계동 산 138-1",
+      "pedestrianControl": "UNVERIFIED",
+      "routingEligible": false,
+      "locationKind": "PROJECT_POINT",
+      "locationNote": "건설알림이의 사업 대표 좌표입니다. 주소가 현장과 다르거나 사업 구간이 넓을 수 있어 지도 안내에만 사용하며 자동 우회에는 사용하지 않습니다.",
+      "sourceUrl": "https://data.seoul.go.kr/dataList/OA-1222/A/1/datasetView.do",
+      "sourceName": "서울특별시 · 건설알림이 (OA-1222)",
+      "collectedAt": "2026-10-08T11:27:40.458Z"
+    },
+    {
+      "id": "cis-6112025103097",
+      "permitNo": "6112025103097",
+      "title": "광운대역~월계로간 도로개설공사(1차)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-03",
+      "endsOn": "2026-12-10",
+      "administrativeStatus": "건설알림이 사업 등록",
+      "roadKinds": [],
+      "pavements": [],
+      "position": {
+        "lat": 37.62454635912402,
+        "lng": 127.06010532321659
+      },
+      "region": "WOLGYE1",
+      "address": "서울 중랑구 동일로149길 35",
+      "pedestrianControl": "UNVERIFIED",
+      "routingEligible": false,
+      "locationKind": "PROJECT_POINT",
+      "locationNote": "건설알림이의 사업 대표 좌표입니다. 주소가 현장과 다르거나 사업 구간이 넓을 수 있어 지도 안내에만 사용하며 자동 우회에는 사용하지 않습니다.",
+      "sourceUrl": "https://cis.seoul.go.kr/TotalAlimi_new/PopInfo.action?cmd=info1&pjt_cd=6112025103097",
+      "sourceName": "서울특별시 · 건설알림이 (OA-1222)",
+      "collectedAt": "2026-10-08T11:27:40.458Z"
+    },
+    {
+      "id": "cis-6082025111898",
+      "permitNo": "6082025111898",
+      "title": "석계역 스크린파크골프장 조성사업 전기공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-18",
+      "endsOn": "2025-12-18",
+      "administrativeStatus": "건설알림이 사업 등록",
+      "roadKinds": [],
+      "pavements": [],
+      "position": {
+        "lat": 37.61493443239873,
+        "lng": 127.06553989385405
+      },
+      "region": "WOLGYE1",
+      "address": "서울특별시 노원구 화랑로 지하 347-1",
+      "pedestrianControl": "UNVERIFIED",
+      "routingEligible": false,
+      "locationKind": "PROJECT_POINT",
+      "locationNote": "건설알림이의 사업 대표 좌표입니다. 주소가 현장과 다르거나 사업 구간이 넓을 수 있어 지도 안내에만 사용하며 자동 우회에는 사용하지 않습니다.",
+      "sourceUrl": "https://data.seoul.go.kr/dataList/OA-1222/A/1/datasetView.do",
+      "sourceName": "서울특별시 · 건설알림이 (OA-1222)",
+      "collectedAt": "2026-10-08T11:27:40.458Z"
+    },
+    {
+      "id": "cis-6082025111398",
+      "permitNo": "6082025111398",
+      "title": "석계역 스크린파크골프장 조성사업 공사(건축)",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-13",
+      "endsOn": "2025-12-24",
+      "administrativeStatus": "건설알림이 사업 등록",
+      "roadKinds": [],
+      "pavements": [],
+      "position": {
+        "lat": 37.61500552731744,
+        "lng": 127.06568946412851
+      },
+      "region": "WOLGYE1",
+      "address": "서울특별시 노원구 화랑로 지하 347-1",
+      "pedestrianControl": "UNVERIFIED",
+      "routingEligible": false,
+      "locationKind": "PROJECT_POINT",
+      "locationNote": "건설알림이의 사업 대표 좌표입니다. 주소가 현장과 다르거나 사업 구간이 넓을 수 있어 지도 안내에만 사용하며 자동 우회에는 사용하지 않습니다.",
+      "sourceUrl": "https://data.seoul.go.kr/dataList/OA-1222/A/1/datasetView.do",
+      "sourceName": "서울특별시 · 건설알림이 (OA-1222)",
+      "collectedAt": "2026-10-08T11:27:40.458Z"
+    },
+    {
+      "id": "cis-7552025111061",
+      "permitNo": "7552025111061",
+      "title": "6호선 석계역 5번출구 행선안내게시기 설치공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-10",
+      "endsOn": "2026-01-12",
+      "administrativeStatus": "건설알림이 사업 등록",
+      "roadKinds": [],
+      "pavements": [],
+      "position": {
+        "lat": 37.61500552731744,
+        "lng": 127.06568946412851
+      },
+      "region": "WOLGYE1",
+      "address": "서울특별시 노원구 화랑로 지하 347-1",
+      "pedestrianControl": "UNVERIFIED",
+      "routingEligible": false,
+      "locationKind": "PROJECT_POINT",
+      "locationNote": "건설알림이의 사업 대표 좌표입니다. 주소가 현장과 다르거나 사업 구간이 넓을 수 있어 지도 안내에만 사용하며 자동 우회에는 사용하지 않습니다.",
+      "sourceUrl": "https://data.seoul.go.kr/dataList/OA-1222/A/1/datasetView.do",
+      "sourceName": "서울특별시 · 건설알림이 (OA-1222)",
+      "collectedAt": "2026-10-08T11:27:40.458Z"
+    },
+    {
+      "id": "cis-6082025110499",
+      "permitNo": "6082025110499",
+      "title": "석계역 하부도로 CCTV 2개소 설치 전기공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2025-11-04",
+      "endsOn": "2025-12-02",
+      "administrativeStatus": "건설알림이 사업 등록",
+      "roadKinds": [],
+      "pavements": [],
+      "position": {
+        "lat": 37.61500552731744,
+        "lng": 127.06568946412851
+      },
+      "region": "WOLGYE1",
+      "address": "서울특별시 노원구 화랑로 지하 347-1",
+      "pedestrianControl": "UNVERIFIED",
+      "routingEligible": false,
+      "locationKind": "PROJECT_POINT",
+      "locationNote": "건설알림이의 사업 대표 좌표입니다. 주소가 현장과 다르거나 사업 구간이 넓을 수 있어 지도 안내에만 사용하며 자동 우회에는 사용하지 않습니다.",
+      "sourceUrl": "https://data.seoul.go.kr/dataList/OA-1222/A/1/datasetView.do",
+      "sourceName": "서울특별시 · 건설알림이 (OA-1222)",
+      "collectedAt": "2026-10-08T11:27:40.458Z"
+    },
+    {
+      "id": "cis-6112025121898",
+      "permitNo": "6112025121898",
+      "title": "영축산 산림복합체험센터 신축공사",
+      "district": "노원구",
+      "dong": "월계동",
+      "startsOn": "2026-04-01",
+      "endsOn": "2027-01-25",
+      "administrativeStatus": "건설알림이 사업 등록",
+      "roadKinds": [],
+      "pavements": [],
+      "position": {
+        "lat": 37.6252425773068,
+        "lng": 127.056214634205
+      },
+      "region": "WOLGYE1",
+      "address": "서울특별시 노원구 월계로44가길 78",
+      "pedestrianControl": "UNVERIFIED",
+      "routingEligible": false,
+      "locationKind": "PROJECT_POINT",
+      "locationNote": "건설알림이의 사업 대표 좌표입니다. 주소가 현장과 다르거나 사업 구간이 넓을 수 있어 지도 안내에만 사용하며 자동 우회에는 사용하지 않습니다.",
+      "sourceUrl": "https://cis.seoul.go.kr/TotalAlimi_new/PopInfo.action?cmd=info1&pjt_cd=6112025121898",
+      "sourceName": "서울특별시 · 건설알림이 (OA-1222)",
+      "collectedAt": "2026-10-08T11:27:40.458Z"
+    }
+  ],
+  "collection": {
+    "endpoint": "https://data.seoul.go.kr/dataList/dataView.do",
+    "queries": [
+      {
+        "term": "월계",
+        "count": 6,
+        "sha256": "a7714ef32cec0b43c9f00e9d40bd7d7ccfab78b6e0403023859a5d9e35567e88"
+      },
+      {
+        "term": "광운",
+        "count": 1,
+        "sha256": "ae4f49d1b550a2b09a437d06614e10e01fe63efc792e57e0665f5599c4d41720"
+      },
+      {
+        "term": "석계",
+        "count": 4,
+        "sha256": "190c77bfbd33d33856c76e4c540189be5159e91517ed6725b3027d70333a4ca4"
+      },
+      {
+        "term": "영축",
+        "count": 2,
+        "sha256": "1917b0fb5bed4e885b53a081f7792c4a277d259c7be4331c819566e8dff4d3b0"
+      },
+      {
+        "term": "6112025110577",
+        "count": 0,
+        "sha256": "d9b89ae54834bebe153170901435daa59df64f368b8d09e085ebdfbd6b9fd55d"
+      },
+      {
+        "term": "6112025103097",
+        "count": 1,
+        "sha256": "15b1d0a99cc9f4797f7a762af0caea555dc213b5fe6963fe8f98727b7f4efb63"
+      },
+      {
+        "term": "6082025111898",
+        "count": 0,
+        "sha256": "d9b89ae54834bebe153170901435daa59df64f368b8d09e085ebdfbd6b9fd55d"
+      },
+      {
+        "term": "6082025111398",
+        "count": 0,
+        "sha256": "d9b89ae54834bebe153170901435daa59df64f368b8d09e085ebdfbd6b9fd55d"
+      },
+      {
+        "term": "7552025111061",
+        "count": 0,
+        "sha256": "d9b89ae54834bebe153170901435daa59df64f368b8d09e085ebdfbd6b9fd55d"
+      },
+      {
+        "term": "6082025110499",
+        "count": 0,
+        "sha256": "d9b89ae54834bebe153170901435daa59df64f368b8d09e085ebdfbd6b9fd55d"
+      },
+      {
+        "term": "6112025121898",
+        "count": 1,
+        "sha256": "51881dad9a811606937fdceef1f35495a1c4e67b9d8aa4cf8c2dba8c807183fa"
+      }
+    ],
+    "rejected": [
+      {
+        "id": "6112025111375",
+        "reason": "Outside Wolgye1 boundary"
+      },
+      {
+        "id": "3202025052786",
+        "reason": "Outside Wolgye1 boundary"
+      },
+      {
+        "id": "3502025042399",
+        "reason": "Outside Wolgye1 boundary"
+      },
+      {
+        "id": "3502024061299",
+        "reason": "Outside Wolgye1 boundary"
+      }
+    ],
+    "periodPolicy": "Live project-detail period takes precedence over the open-data snapshot; no completion status is inferred."
+  }
+}

@@ -1,0 +1,3431 @@
+{
+  "collectedAt": "2026-10-08T08:55:36.411Z",
+  "sourceUrl": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+  "license": "공공누리 제1유형 · 서울특별시 출처표시",
+  "totalRecords": 4416,
+  "localRecords": 362,
+  "coordinateGroups": 190,
+  "facilities": [
+    {
+      "id": "seoul-cctv-c89f7d5dbcf6a0c2",
+      "name": "방범643.(월계)광운로3길14(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6194,
+        "lng": 127.0569
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-331a88926c3916c2",
+      "name": "방범644.(월계)광운로3길18(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6194,
+        "lng": 127.0568
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-2d1a49b4c0faa94a",
+      "name": "방범645.(월계)광운로3길12-6(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6194,
+        "lng": 127.0574
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-a03ab033925f6963",
+      "name": "방범646.(월계)광운로2길15(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6184,
+        "lng": 127.0575
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4cb9a6febd028485",
+      "name": "방범638.(월계)광운로17길21(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6226,
+        "lng": 127.0584
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-331d94281a818c45",
+      "name": "공원308.D(월계)월계동 산 130 영축산근린공원2(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6234,
+        "lng": 127.0562
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f5e180e10964f408",
+      "name": "방범639.(월계)광운로13길13(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6213,
+        "lng": 127.0586
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-2799fa5c47a6ee39",
+      "name": "공원307.D(월계)월계동 산 130 영축산근린공원1(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6233,
+        "lng": 127.055
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-a19ec8832ff2e78f",
+      "name": "방범640.(월계)광운로7길8(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6207,
+        "lng": 127.0584
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-360ae32fcff72954",
+      "name": "공원134.D(월계)소곶네어린이공원(월계1동 411-47)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.621,
+        "lng": 127.0616
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-c7176f8cd7582a91",
+      "name": "방범641.(월계)광운로27-16(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6205,
+        "lng": 127.0579
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-7a4fa500bf2cdb87",
+      "name": "공원090.(월계)석계역문화공원1(화랑로331) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.615,
+        "lng": 127.0647
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5bf8564b4513a772",
+      "name": "공원108.D(월계)영축산근린공원(월계동932)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.625,
+        "lng": 127.0524
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4b635b1afe2702a1",
+      "name": "방범783.(월계)석계로8길 일대",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6156,
+        "lng": 127.065
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f57e0a99768e2f1d",
+      "name": "방범784.(월계)석계로5길6",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6164,
+        "lng": 127.064
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-52bfae2778a51b10",
+      "name": "방범202(2).(월계) 월계로 268 1(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6253,
+        "lng": 127.0519
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6a9ec85e5b9523ed",
+      "name": "방범450.(월계)월계동 산125-8",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.625,
+        "lng": 127.0599
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4785523572f6adca",
+      "name": "방범992(2).(월계)월계동 472-39(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6165,
+        "lng": 127.0597
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-b1e159b6c2d10b46",
+      "name": "방범451(1).D(월계)광운로 13길8 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6215,
+        "lng": 127.0589
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-ef35237ae4a39de7",
+      "name": "방범006(1).D(월계)광운로17길45 기원사입구 (월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6223,
+        "lng": 127.0571
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-ee5a8695581f9aa9",
+      "name": "방범380.(월계)화랑로 337",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.615,
+        "lng": 127.065
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-14c517471c056abe",
+      "name": "공원155.D(월계)돌곶이어린이공원(월계1동 429-4)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6202,
+        "lng": 127.0612
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f4d2cc65667a6e97",
+      "name": "방범065(2).(월계)월계1동 475-35 한일마트삼거리(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6169,
+        "lng": 127.0604
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-7a7b648e7780be40",
+      "name": "방범007.D(월계)월계로44길51 교육촌입구 (월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6229,
+        "lng": 127.0525
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f1f16752a1260d17",
+      "name": "방범221.D(월계)광운로2길 47-5",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.617,
+        "lng": 127.0594
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-be6efcd33d542f36",
+      "name": "방범011(1).D(월계)석계로95 광운대역앞 (월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6231,
+        "lng": 127.0613
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4160882be4425c35",
+      "name": "방범423.(월계)광운로 81",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6245,
+        "lng": 127.06
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-65cf6572087b102e",
+      "name": "방범424.(월계)광운로 83",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6247,
+        "lng": 127.06
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-428edda89f8561b9",
+      "name": "방범219.D(월계)광운로2가길 17-12",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6182,
+        "lng": 127.0587
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-73138b78c3e91ce7",
+      "name": "방범827.(월계)월계동376-70(편의점 담벼락 사이 계단)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6243,
+        "lng": 127.06
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6a32bb6ec5bad24f",
+      "name": "방범218.(월계)월계로44가길 51-10",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6248,
+        "lng": 127.0543
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-12ea8169f1590134",
+      "name": "방범425.D(월계)석계로 18길10",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6235,
+        "lng": 127.0605
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-2b046c3d8ed1f11b",
+      "name": "공원313.D(월계)월계1동 429-44 월계어린이공원(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6204,
+        "lng": 127.0613
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4a171c6625ddc10e",
+      "name": "방범426.(월계)석계로 18길10-9",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6237,
+        "lng": 127.061
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-2b1918f887e29e22",
+      "name": "방범216.(월계)월계로44가길 5 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6231,
+        "lng": 127.0527
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-37820ec5592c9159",
+      "name": "방범427(1).(월계)석계로 18길4 외 4개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6229,
+        "lng": 127.0602
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f2edb76ec4ab5c53",
+      "name": "공원301(1).(월계)영축산근린공원 월계동 산 108-7 일대 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6257,
+        "lng": 127.0577
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-e202f4a62e58b58c",
+      "name": "방범428.(월계)월계동 392-196",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6241,
+        "lng": 127.06
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-69dcda83b0d68a4e",
+      "name": "방범214.(월계)월계로44가길 12 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6233,
+        "lng": 127.0531
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-56e3cced5b6aef5d",
+      "name": "공원302.D(월계)영축산근린공원 월계동 산 108-7 일대 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6264,
+        "lng": 127.0572
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-c814103316b18844",
+      "name": "방범430.D(월계)광운로 12길38 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6214,
+        "lng": 127.0612
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-128edcff6d99db33",
+      "name": "방범431.D(월계)광운로 10길9 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6207,
+        "lng": 127.0595
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6777aef159844925",
+      "name": "공원303(2).(월계)영축산근린공원 월계동 산 108-7 일대 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6257,
+        "lng": 127.0567
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-227c9b09c7b965e4",
+      "name": "방범432.(월계)석계로 13길17",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6205,
+        "lng": 127.0618
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-a407450b5c89c044",
+      "name": "방범642.D(월계)광운로27-38(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6204,
+        "lng": 127.0573
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-56745d9817e5eb70",
+      "name": "방범210.D(월계)월계로44길 44 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6233,
+        "lng": 127.0521
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-24653f4d0652b5e6",
+      "name": "방범422.(월계)광운로 19가길49",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6253,
+        "lng": 127.0589
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-d4435089bbc3f6c0",
+      "name": "재난재해020(2). 우이천 석계역복개구조 내부1(성북구 석관동 164-4) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6152,
+        "lng": 127.064
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-46100e01be078427",
+      "name": "방범112(2).(월계)월계로44가길28 도원그린힐2  (월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6237,
+        "lng": 127.0538
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-3089edebf2aa21d6",
+      "name": "방범010.D(월계)월계로42길15 장석교회주변 (월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6239,
+        "lng": 127.0509
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-870ddaf6bfb50217",
+      "name": "공원182.D(월계)석계역문화광장3(화랑로 331)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6151,
+        "lng": 127.0644
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-1c2a2fe132d6920c",
+      "name": "어린이보호096(2).(월계)보고유치원(석계로13길6-9)고정 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6204,
+        "lng": 127.0614
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6624fb449ca398ad",
+      "name": "어린이보호124(1).D(월계)선곡초(광운로2길 6) 외 4개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6182,
+        "lng": 127.0575
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-129125796cf11a51",
+      "name": "무단투기023.(월계)월계동 68-78 (월계동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6169,
+        "lng": 127.0641
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-3dd0e3292afa8485",
+      "name": "방범634.D(월계)광운로3길10(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6192,
+        "lng": 127.0571
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6dc739b4759f5843",
+      "name": "방범635.(월계)광운로17길48-47(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6229,
+        "lng": 127.0562
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-789e12a8cc9bc6f5",
+      "name": "방범201(1).D(월계) 월계로44가길 37-36(월계1동)T 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6248,
+        "lng": 127.0532
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-8f49011cbfb3b60c",
+      "name": "방범636.(월계)광운로17길42(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6224,
+        "lng": 127.0574
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-1b0e4fbb7bd000f1",
+      "name": "방범637.(월계)광운로15길8-19(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6225,
+        "lng": 127.0579
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-b0640ea902deddac",
+      "name": "방범442.D(월계)석계로 23-18",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6167,
+        "lng": 127.0637
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-d99d5d206aa0ac60",
+      "name": "어린이보호098.D(월계)선곡초병설(광운로21)방범 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6191,
+        "lng": 127.0579
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-3040ce217c34b55d",
+      "name": "방범443.(월계)석계로 7길6",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6166,
+        "lng": 127.0639
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-ebb9bac11d43a353",
+      "name": "방범859.(월계)광운로2길 15-6 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6174,
+        "lng": 127.0585
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-cd951b2d6f82526d",
+      "name": "방범444.(월계)석계로 7길10",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6164,
+        "lng": 127.0637
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-9721344dbf3361cb",
+      "name": "방범212.(월계)월계로44나길 23-1",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.623,
+        "lng": 127.054
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-879fededbc72095a",
+      "name": "어린이보호097.D(월계)성북유치원(광운로48)방범 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6211,
+        "lng": 127.0592
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-edc002dfe1c2886c",
+      "name": "방범445.(월계)석계로 3길18",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6161,
+        "lng": 127.064
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5275eed5fda6a474",
+      "name": "방범205.D(월계)월계로44가길 43-13",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6246,
+        "lng": 127.054
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-ff579d676e6c325d",
+      "name": "어린이보호021.D(월계)월계1동어린이집(석계로13길7) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6206,
+        "lng": 127.0625
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-73aa332dee8a0f49",
+      "name": "방범446.(월계)광운로 2길1",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.619,
+        "lng": 127.0584
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-0f91290d8a706ed8",
+      "name": "방범1044(1).D(월계)월계동 392-161 새봄아파트 정문 앞 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6221,
+        "lng": 127.0575
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-33a5ad8cb10ba342",
+      "name": "방범204.D(월계)월계로44가길 59-11 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.625,
+        "lng": 127.0546
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-8a589cd96fddc385",
+      "name": "어린이보호022.D(월계)선곡초교(광운로6길28)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6183,
+        "lng": 127.0591
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-ef1db3c4be0f4735",
+      "name": "방범447.(월계)월계로 44나길31-1 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6232,
+        "lng": 127.0542
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-df21658a4d0306cd",
+      "name": "방범1043.D(월계)월계동 500-6 벼루어린이공원 앞 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.622,
+        "lng": 127.0566
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-dfb015cb05eb34e8",
+      "name": "방범980(1).(월계)월계로44가길29-13 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6243,
+        "lng": 127.0531
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-0d1c3cb9e9e06c24",
+      "name": "방범203.D(월계)월계로44가길 70",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6249,
+        "lng": 127.0556
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-66ad7166e7e97195",
+      "name": "방범1046.D(월계)월계동 500-7 동광빌라",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6214,
+        "lng": 127.0573
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-397bd47aa32f9518",
+      "name": "방범1045.D(월계)월계동 392-124 앞 코너",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6217,
+        "lng": 127.0587
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-0149347a79148589",
+      "name": "방범001.D(월계)석계로7길 33 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6157,
+        "lng": 127.0632
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-b06bf4f2fef46776",
+      "name": "방범002.D(월계)광운로2나길23 삼창아파트입구  (월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6182,
+        "lng": 127.0596
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-11003967ca1fe598",
+      "name": "방범415.(월계)광운로 19길14",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6235,
+        "lng": 127.0595
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-1db86409256a021d",
+      "name": "방범120.D(월계)광운로19가길64 휴앤미빌  (월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6249,
+        "lng": 127.0595
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5beee67cb9928ee1",
+      "name": "방범902.D(월계)석계로8가길 29",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6154,
+        "lng": 127.0648
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-fe56c577ccea4c9c",
+      "name": "방범004.D(월계)석계로39 카센타앞  (월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6184,
+        "lng": 127.0637
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6cfc6d44757fd407",
+      "name": "방범901.(월계)화랑로 335",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6149,
+        "lng": 127.0651
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-1ab460e22368023a",
+      "name": "방범005.D(월계)화랑로43나길12 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6152,
+        "lng": 127.0624
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-48b4a894eb5bc7e3",
+      "name": "방범417.D(월계)광운로 19가길5 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6238,
+        "lng": 127.0596
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f31f0e965f743f09",
+      "name": "방범123.D(월계)월계로14나길59 월계산장위  (월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6243,
+        "lng": 127.0553
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-e81c26dd7fe1ff62",
+      "name": "공원014.(월계)연천내공원(석계로15길12 월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6225,
+        "lng": 127.0611
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-c22ef919e9454154",
+      "name": "방범418.(월계)광운로 19가길13",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6242,
+        "lng": 127.0596
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-87cfb4868a1abe99",
+      "name": "방범122.D(월계)광운로1길16-5 광운공고주변  (월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.619,
+        "lng": 127.0569
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5c06e33212e04a08",
+      "name": "방범419.(월계)광운로 19가길20",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6244,
+        "lng": 127.0596
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f88d70708ed1e2d5",
+      "name": "방범125.D(월계)월계로348 월계지하차도위  (월계2동) 외 4개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.63,
+        "lng": 127.0589
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-e97155761ac5beba",
+      "name": "방범421.(월계)광운로 19가길27",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6247,
+        "lng": 127.0593
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-7c440d509b364a52",
+      "name": "방범078.D(월계)광운로2가길12 서울우유대리점 (월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6176,
+        "lng": 127.059
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5c9736b05fc75abe",
+      "name": "방범632.D(월계)광운로7길10-2(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6208,
+        "lng": 127.0582
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-25dadb7815b2089c",
+      "name": "방범630(1).D(월계)광운로15길41(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6217,
+        "lng": 127.0571
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4b35e0149e21dccf",
+      "name": "방범077.D(월계)석계로3길41 동신아파트입구  (월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6167,
+        "lng": 127.0623
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-a60ce3acc4c251a1",
+      "name": "방범438.(월계)석계로 11길37-4",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6167,
+        "lng": 127.063
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-1db1451b89943484",
+      "name": "방범631(1).D(월계)광운로15길24(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6217,
+        "lng": 127.058
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-cc581251cb9ac693",
+      "name": "방범439.(월계)석계로 11길27",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.617,
+        "lng": 127.0634
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-02f54bdc5d1ac448",
+      "name": "방범440.D(월계)석계로 11길23",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6173,
+        "lng": 127.0635
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-e5f2012076b3fd7e",
+      "name": "방범633(1).D(월계)광운로7길14(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6207,
+        "lng": 127.0578
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-27346f897af1332c",
+      "name": "무단투기031.(월계)광운로122 노원변전소앞  (월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6282,
+        "lng": 127.0595
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-e8878f0b097c3b48",
+      "name": "방범206.(월계)월계로44가길 65-6",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6251,
+        "lng": 127.0551
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-a3e31a6ba7e92057",
+      "name": "방범207.D(월계)월계로44가길 50 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6244,
+        "lng": 127.0547
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-3a560f80d20b3674",
+      "name": "방범950(1).(월계)광운로 15길 8-9 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6221,
+        "lng": 127.0584
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-931b526bda6803ba",
+      "name": "방범208.D(월계)월계로44가길 38 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6239,
+        "lng": 127.0541
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-480645c7f392f6f6",
+      "name": "방범079(2).월계동 387-6 삼거리(월계로즈빌) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6227,
+        "lng": 127.0587
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5a82cd9a899cb2d3",
+      "name": "방범209.D(월계)월계로44가길 20",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6235,
+        "lng": 127.0534
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-e49babe7708c2acc",
+      "name": "공원327.D(월계)월계동 66-11 굴다리 옆 공원(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6169,
+        "lng": 127.0646
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-7cf2279b15dc2559",
+      "name": "방범629.D(월계)광운로17길48-19(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6223,
+        "lng": 127.0564
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-409f181da22bad5f",
+      "name": "방범628.(월계)월계로 346(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6298,
+        "lng": 127.0585
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-8480a8a865d71902",
+      "name": "방범441.(월계)석계로 9길5-7",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6173,
+        "lng": 127.0637
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-9a1033849d3268f6",
+      "name": "재난재해058.(월계) 월계동 496-71 벼루말교 하류 경사로",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6198,
+        "lng": 127.055
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5986118171e2fe79",
+      "name": "재난재해057.(월계) 월계로42길 97 우이천(SK뷰아파트) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.622,
+        "lng": 127.0525
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-3559551f09e4f647",
+      "name": "재난재해020(1). 우이천 석계역복개구조 상류입구(석관동 164-4)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6152,
+        "lng": 127.0626
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-39b0286ebb72edae",
+      "name": "무단투기008.D(월계)월계동68-2 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6165,
+        "lng": 127.0646
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5aada4e2999ec6f4",
+      "name": "방범879.(월계)광운로 75",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.624,
+        "lng": 127.0601
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-7c388e607b11e2e6",
+      "name": "방범627.(월계)월계로 338(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6293,
+        "lng": 127.0579
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-32e7bed0f0567cb3",
+      "name": "방범429.(월계)석계로 15길17",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6223,
+        "lng": 127.0611
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-c04f8907b84a780a",
+      "name": "방범962.(월계)광운로 15길 35-2",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6212,
+        "lng": 127.0574
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f5e3dbee9efeabd3",
+      "name": "방범433.(월계)석계로 13길9",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6205,
+        "lng": 127.0622
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-d9db8ec27004660d",
+      "name": "방범880.(월계)석계로13길 48 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6212,
+        "lng": 127.061
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-9a8ad6ff12fc43e0",
+      "name": "방범435.D(월계)석계로 8가길2",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6166,
+        "lng": 127.0645
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-fc24d59d981411c2",
+      "name": "방범436.D(월계)석계로 7길18 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6162,
+        "lng": 127.0635
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4e9abf568fec632f",
+      "name": "재난재해059.(월계) 월계동 496-71 우이천(벼루말교)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6199,
+        "lng": 127.0549
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-138d6a08073b855b",
+      "name": "무단투기001.D(월계)광운로19가길14 (월계2동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6241,
+        "lng": 127.0597
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-127b562730cc1de6",
+      "name": "방범852.D(월계)광운로1길 26",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.619,
+        "lng": 127.0562
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-698eef1a8e3b0c5a",
+      "name": "방범626.(월계)광운로22길11(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6287,
+        "lng": 127.0592
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-81e3019b27fbe820",
+      "name": "방범624.D(월계)월계로338-14(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6289,
+        "lng": 127.0581
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-188d22f4516feea2",
+      "name": "방범625.D(월계)월계로342(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6296,
+        "lng": 127.0583
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-ba875182f106b4f9",
+      "name": "재난재해062.(월계) 월계동472-25 우이천(장월교)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6168,
+        "lng": 127.0591
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6884aabfb0b98739",
+      "name": "재난재해060.(월계) 월계동 496-71 광운공고 계단",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6189,
+        "lng": 127.0563
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6edfc059026abe4c",
+      "name": "재난재해061.(월계) 월계동 472-25 장월교 하류 경사로",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6168,
+        "lng": 127.059
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-c1b73dbaf32ba27b",
+      "name": "방범413.D(월계)광운로 61-8",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6231,
+        "lng": 127.0593
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-122fa8e3a8cf1427",
+      "name": "방범1037.D(월계)석계로 103(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6228,
+        "lng": 127.0609
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-eaa99c18d248827f",
+      "name": "방범1040.D(월계)월계로44길 66(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6223,
+        "lng": 127.0529
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-84d7f84c7c33c585",
+      "name": "재난재해042.월계1 간이펌프장",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6157,
+        "lng": 127.0645
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-18f373eb3c64b145",
+      "name": "공원345(2).(월계)월계동47-37 일대 석계역문화공원(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6153,
+        "lng": 127.0645
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-9a6fc2dfc9b86df7",
+      "name": "공원344(1).D(월계)월계동47-37 일대 석계역문화공원(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6153,
+        "lng": 127.064
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4b44dbac766f306a",
+      "name": "방범1139.(월계)월계동 486-9(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6164,
+        "lng": 127.063
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f27fa5f36d77220d",
+      "name": "안전관리015(1).(월계)월계동 949 SK뷰아파트 103동 옥상(상계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6209,
+        "lng": 127.054
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-4d9844d981acfb9d",
+      "name": "방범1064(2).(월계)월계동 534-179 하이서울빌라(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6248,
+        "lng": 127.0554
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-8ffa372e6118b679",
+      "name": "방범1062(2).(월계)월계동 291-25 삼거리 전주(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6288,
+        "lng": 127.0594
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-d21f36be9692da55",
+      "name": "방범1077(1).D(월계)월계1동 376-5(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.624,
+        "lng": 127.0592
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-93bab93487521fe9",
+      "name": "무단투기021.석계로59",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.62,
+        "lng": 127.063
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5dbbf72d061db2e0",
+      "name": "공원380(2).(월계)월계동 산114-4 영축산(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.625,
+        "lng": 127.0535
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-9aa3f06a0e4b4dd5",
+      "name": "방범1089(1).D(월계)월계동625-7 월계2동치안센터 건너(월계2동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6281,
+        "lng": 127.0559
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-ee68359ed5a6d995",
+      "name": "방범451(4).(월계)월계동 392-34 경로당(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6213,
+        "lng": 127.0587
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-e2ff657517b6015c",
+      "name": "무단투기019.(월계)광운로12길 11",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6213,
+        "lng": 127.0599
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-21d38fd192f20590",
+      "name": "무단투기025.(월계)광운로13길 20",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6213,
+        "lng": 127.0581
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-892084880a9105e1",
+      "name": "방범077(2).(월계)석계로3길 41 동신아파트입구 2(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6166,
+        "lng": 127.0623
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-90b9f75aecbd0341",
+      "name": "무단투기017.(월계)월계1동 496-77 송암빌딩(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6192,
+        "lng": 127.0572
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f538b4a9f6b91561",
+      "name": "무단투기022.(월계)월계1동 534-21(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6241,
+        "lng": 127.0549
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f1492a20c879576a",
+      "name": "재난재해161(2).(월계)월계동 497-3, 장월교 1-2(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6182,
+        "lng": 127.0571
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-e4aa6111f35179fe",
+      "name": "재난재해162(2).(월계)월계동 497-3, 장월교 2-2(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6179,
+        "lng": 127.0574
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-f6663aabc3908453",
+      "name": "방범1140(3).(월계)월계동 410-3 청년주택 모서리 3(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6221,
+        "lng": 127.0611
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-6f1f9b5ba0055c8a",
+      "name": "방범063(4).(월계)월계동359-2 노원변전소 4(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6279,
+        "lng": 127.0596
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-afd6e5f5f4d161fb",
+      "name": "방범1160(2).(월계)월계동379-2 월계부동산앞 2(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6236,
+        "lng": 127.0611
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-5e6bf6ec165206be",
+      "name": "방범1141(2).(월계)월계동390-13 성북유치원 옆 2(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6223,
+        "lng": 127.0592
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-a4a489d6942825ee",
+      "name": "방범1183(3).(월계)월계동 928 월계1동주민센터앞 3(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6199,
+        "lng": 127.0631
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-abffd2b4edaf89bf",
+      "name": "방범1169(2).(월계)월계동 473-15 코스모스벽지 앞 2(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6178,
+        "lng": 127.0592
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-c3c7313728cfcf9c",
+      "name": "방범1164(2).(월계)월계동 295-29 월계2동 S-oil주유소 2(월계1동) 외 4개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6287,
+        "lng": 127.0569
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-16cc464b8a2524d1",
+      "name": "방범1167(1).D(월계)월계동 409-10 북서울농협 앞 1(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6217,
+        "lng": 127.0594
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-076b2dc3207d0c4a",
+      "name": "방범1168(1).D(월계)월계동 72-3 인덕기름집 1(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6176,
+        "lng": 127.0636
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-3938b523f0366f70",
+      "name": "방범1192(2).(월계)월계동 534-37 정은빌라 인근 2(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6249,
+        "lng": 127.0541
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-9b2386230d258149",
+      "name": "4131-월계1-하행 보행자통로2",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6301,
+        "lng": 127.059
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-9eb1e05dde4d67e3",
+      "name": "4140-월계1-진입차단시설(하계역방향)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6294,
+        "lng": 127.0579
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-34989392fcfe75ec",
+      "name": "공원459(2).(월계)월계동 산114-2 영축산 근린공원 화장실옆 사거리 2(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.625,
+        "lng": 127.0542
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-a6904af0d6be7fd5",
+      "name": "공원460(2).(월계)월계동 산114-2 영축산 근린공원 이정표 2(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6252,
+        "lng": 127.0547
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-efc1788e75bd9f11",
+      "name": "공원460(1).D(월계)월계동 산114-2 영축산 근린공원 이정표 1(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6253,
+        "lng": 127.0547
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-c9a34044869ee4f5",
+      "name": "공원461(2).(월계)월계동 산125-9 체육시설 밑 이정표 2(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6263,
+        "lng": 127.0587
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-c429287b24d1e6c5",
+      "name": "공원461(1).D(월계)월계동 산125-9 체육시설 밑 이정표 1(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6264,
+        "lng": 127.0587
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-835f5c49d29523a2",
+      "name": "공원556(5).(월계)월계동 산 120-5 영축산 근린공원 2-5(월계1동) 외 4개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6234,
+        "lng": 127.0521
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-58cc5574f4d88971",
+      "name": "공원508(2).(월계)월계동 114-2 월계구민체육센터뒤(화장실앞) 2(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6252,
+        "lng": 127.0541
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-da4351f7fd848c15",
+      "name": "공원509(2).(월계)월계동 114-2 월계구민체육센터뒤(체육시설) 2(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6272,
+        "lng": 127.0554
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-cf4fcdb1c4d868af",
+      "name": "공원498(1).D(월계)월계동 산122-11 영축산순환산책로 숲속의집 뒤 정상근처 1(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6255,
+        "lng": 127.0561
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-050dea181b6ddb07",
+      "name": "공원499(1).D(월계)월계동 산122-11 영축산순환산책로 정상옆 체육시설 1(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6268,
+        "lng": 127.0579
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-80d346bbf583257a",
+      "name": "공원555(3).(월계)월계동 산 120-5 영축산 근린공원 1-3(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6235,
+        "lng": 127.0522
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-b7dff6f62b9a0d6d",
+      "name": "공원501(1).D(월계)월계동 산122-11 영축산순환산책로쉼터옆 화단 1(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6255,
+        "lng": 127.0596
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-73e91b444751be61",
+      "name": "공원465(4).(월계)월계동 산130-3 유아숲체험장 화장실앞 4(월계1동) 외 3개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6227,
+        "lng": 127.0547
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-42e5f99cd52118ea",
+      "name": "공원497(2).(월계)월계동 산106-7 영축산순환산책로 월계문화체육센터뒤 2-2(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6261,
+        "lng": 127.0545
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-be1f17b6c7652c35",
+      "name": "공원498(3).(월계)월계동 산122-11 영축산순환산책로 숲속의집 뒤 정상근처 3(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6255,
+        "lng": 127.056
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-1860fb84cc653372",
+      "name": "공원501(2).(월계)월계동 산122-11 영축산순환산책로쉼터옆 화단 2(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6254,
+        "lng": 127.0596
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-80b491e1a0445bd7",
+      "name": "공원496(1).D(월계)월계동 산108-4 영축산순환산책로 월계문화체육센터뒤 1-1(월계1동) 외 2개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6264,
+        "lng": 127.055
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-98cb71f6a1eba33e",
+      "name": "공원500(1).D(월계)월계동 산122-11 영축산순환산책로 쉼터 위 체육시설 1(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6224,
+        "lng": 127.0551
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-7aa603e01cbd0046",
+      "name": "공원473(2).(월계)월계동 949-3 벼루말 소공원 2(월계1동) 외 1개 등록 기록",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6204,
+        "lng": 127.0544
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    },
+    {
+      "id": "seoul-cctv-af013719395e0763",
+      "name": "방범1213(1).(월계)월계동383-7(월계1동)",
+      "type": "CCTV",
+      "position": {
+        "lat": 37.6234,
+        "lng": 127.0598
+      },
+      "status": "UNKNOWN",
+      "source": {
+        "type": "OFFICIAL",
+        "name": "서울특별시 · 노원구 안심이 CCTV 연계 현황",
+        "url": "https://data.seoul.go.kr/dataList/OA-20934/S/1/datasetView.do",
+        "observedAt": "2026-01-09T00:00:00+09:00",
+        "recheckAt": "2026-01-09T15:00:00.000Z",
+        "dateMeaning": "원자료 수정일. 동일 좌표의 등록 기록을 묶은 위치이며 현재 작동·촬영 방향은 미확인."
+      }
+    }
+  ],
+  "datasetId": "wolgye1-public-20261005"
+}

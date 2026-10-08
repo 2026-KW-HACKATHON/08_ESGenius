@@ -1,0 +1,14 @@
+**/node_modules
+**/dist
+**/.env
+**/.env.*
+**/*.sqlite*
+**/android
+**/artifacts
+.git
+**/*.log
+deliverables
+backend/data/research
+backend/data/construction-research
+backend/data/safety-research
+**/coverage

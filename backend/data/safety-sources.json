@@ -1,0 +1,52 @@
+{
+  "datasetId": "wolgye1-public-20261005",
+  "appliedAt": "2026-10-08T09:50:43.790Z",
+  "files": [
+    {
+      "path": "data/wolgye-official-lights.json",
+      "sha256": "d0941ad75cb6e5d9cc4f095f68cfa6170d076ba3ec998135f384f67599bf6d63",
+      "facilities": 17
+    },
+    {
+      "path": "data/wolgye-safety-facilities.json",
+      "sha256": "d13bbfd0b40b118f156381c360dbcabe974d2aed3b6d5ca9b87a80ceeb604007",
+      "facilities": 190
+    },
+    {
+      "path": "data/wolgye-public-bells.json",
+      "sha256": "204640b032eced5dfd14caf173ed1b29b85ad8a52254ebec60376eca4b4d5bd4",
+      "facilities": 6
+    },
+    {
+      "path": "data/wolgye-archived-lights.json",
+      "sha256": "f95f59d58f5e95716c12894ee5c88d1dec7f060357fcd1c7dd2cee5b06cd74c9",
+      "facilities": 290
+    }
+  ],
+  "counts": {
+    "officialLampCoordinates": 17,
+    "archivalLampAddresses": 290,
+    "cctvCoordinates": 190,
+    "indoorBellBuildings": 6,
+    "stairsWays": 11,
+    "hillPoints": 1,
+    "elevators": 1
+  },
+  "limits": [
+    "2018 security-light addresses are not current surveyed lamp coordinates and are excluded from route scoring.",
+    "CCTV coordinates are grouped, not camera-unit counts; no crime-safety score is inferred.",
+    "Indoor toilet bells are building points and excluded from outdoor-route scoring.",
+    "OSM slopes, widths and wheelchair access remain unknown. Elevators do not create unverified graph connections.",
+    "Current district-wide security-light and outdoor emergency-bell inventories could not be verified in full."
+  ],
+  "unavailableSources": [
+    {
+      "id": "OA-15972",
+      "description": "Nowon smart-security-light realtime sheet returned no rows; public 2026.05.04–05.10 file download timed out."
+    },
+    {
+      "id": "15028206",
+      "description": "National emergency-bell file endpoint returned 403."
+    }
+  ]
+}

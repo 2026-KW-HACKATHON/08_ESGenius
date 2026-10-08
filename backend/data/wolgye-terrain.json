@@ -1,0 +1,42 @@
+{
+  "datasetId": "wolgye1-public-20261005",
+  "collectedAt": "2026-10-08T09:17:29.861Z",
+  "items": [
+    {
+      "id": "osm-feature-10252985183",
+      "kind": "SLOPE",
+      "name": "영축산 산지 지형",
+      "description": "공개 지도에 등록된 산봉우리 위치입니다. 표고 93.4m는 해발고도이며 보행로 경사율이 아닙니다. 주변 구간의 경사율·난간·휴식 공간은 미확인입니다.",
+      "position": {
+        "lat": 37.6252578,
+        "lng": 127.0573876
+      },
+      "source": {
+        "type": "OPEN_MAP",
+        "name": "© OpenStreetMap contributors · ODbL",
+        "url": "https://www.openstreetmap.org/node/10252985183",
+        "observedAt": "2026-02-17T14:02:49Z",
+        "recheckAt": "2026-02-18T14:02:49.000Z",
+        "dateMeaning": "OSM 원본 갱신일; 수집본 기준 2026-06-01T08:52:28Z; 현장 측정일이 아닙니다."
+      }
+    },
+    {
+      "id": "osm-feature-13566413541",
+      "kind": "ELEVATOR",
+      "name": "광운대역 인근 엘리베이터",
+      "description": "공개 지도에 등록된 승강기 위치입니다. 운영 여부·연결 층·휠체어 진입과 출구 연결은 현장 미확인입니다. 경로에 임의로 승강기 연결을 추가하지 않습니다.",
+      "position": {
+        "lat": 37.622884,
+        "lng": 127.061816
+      },
+      "source": {
+        "type": "OPEN_MAP",
+        "name": "© OpenStreetMap contributors · ODbL",
+        "url": "https://www.openstreetmap.org/node/13566413541",
+        "observedAt": "2026-02-15T12:51:56Z",
+        "recheckAt": "2026-02-16T12:51:56.000Z",
+        "dateMeaning": "OSM 원본 갱신일; 수집본 기준 2026-06-01T08:52:28Z; 현장 측정일이 아닙니다."
+      }
+    }
+  ]
+}

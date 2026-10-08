@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">총총월계길</string>
+    <string name="title_activity_main">총총월계길</string>
+    <string name="package_name">kr.wolgye.chongchong</string>
+    <string name="custom_url_scheme">kr.wolgye.chongchong</string>
+</resources>
