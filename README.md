@@ -18,7 +18,7 @@
 
 | 계단을 피하는 경로 | 반딧불이 동행 | 시설 위치와 자료 출처 |
 | :---: | :---: | :---: |
-| <img src="docs/images/route-comfort.png" width="240" alt="장월교에서 석계역까지 계단을 피하는 1.4km 참고 경로"> | <img src="docs/images/night-guidance.png" width="240" alt="노란 경로 위 반딧불이와 남은 거리·시간을 표시하는 이동 미리보기"> | <img src="docs/images/facility-source.png" width="240" alt="CCTV 위치와 자료 기준일·출처를 보여주는 상세 화면"> |
+| <img src="docs/images/route-comfort.png" width="240" alt="장월교에서 석계역까지 계단을 피하는 1.4km 참고 경로"> | <img src="docs/images/docsimagesnight-guidance.png.png"> | <img src="docs/images/facility-source.png" width="240" alt="CCTV 위치와 자료 기준일·출처를 보여주는 상세 화면"> |
 
 2026-10-08 개발 화면입니다. 동행 화면은 이동 미리보기이며, 시설 위치와 경로의 현장 통행 상태는 구분해 표시합니다.
 
